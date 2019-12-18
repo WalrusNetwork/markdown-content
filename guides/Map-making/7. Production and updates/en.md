@@ -1,0 +1,5 @@
+# **Production and updates**
+
+Once your map is loaded, our Map volunteers will take over and maintain your map regularly, tweaking changes here and there as feedback comes in from the community, or getting it ready for special events, and keeping a public changelog.  As the map-maker, you are certainly welcome to create further iterations of the map, which will need to go through the map reviewal process once again in order to verify the map standards.  However, if you are simply doing small edits (such as dressing up your map and getting it ready for a holiday), the map should be processed speedily.
+
+Your map is in production and has been loaded on the server – congrats!  And thanks for contributing to the Walrus map offerings.  We could not operate without our dedicated community map-makers and we know the community is a treasure-trove full of creative ideas.  Thank you!
