@@ -15,7 +15,7 @@ All the markdown content needed for our website to run. The repo is divided in 2
 ## Guides
 
 ### Sections
-The guides section of the website is structured in sections, and there can be many sections. In this case `FAQs` and `Map-making` are sections: 
+The guides page is structured in sections, and there can be many sections. In this case `FAQs` and `Map-making` are sections: 
 
 ![](https://i.imgur.com/JHgs00F.gif)
 
@@ -30,7 +30,7 @@ And this is how it is displayed on the website:
 
 ![](https://i.imgur.com/kE0MOV6.png)
 
-Each guide, then, is not a file by themself but rather inside a folder with its name. That is because each guide has to be translated to several languages used on the website, such as English or Spanish. That is accomplished by distinguishing several files by their short, 2 characters locale name, such as shown below:
+Each guide, then, is not a file by itself but rather inside a folder with its name. That is because each guide has to be translated to several languages used on the website, such as English or Spanish. That is accomplished by distinguishing several files by their short, 2 characters locale name, such as shown below:
 
 ![](https://i.imgur.com/YbN5UaV.png)
 
