@@ -2,8 +2,7 @@ stages:
   - deploy
 
 deploy:
-  trigger:
-    project: website/website
-    branch: master
+  stage: deploy
+  trigger: website/website
   only:
     - master
