@@ -1,0 +1,9 @@
+stages:
+  - deploy
+
+deploy:
+  trigger:
+    project: website/website
+    branch: master
+  only:
+    - master
