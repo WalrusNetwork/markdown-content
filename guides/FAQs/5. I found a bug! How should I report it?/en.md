@@ -1,6 +1,6 @@
 # **I found a bug! Where do I report it?**
 
-![found_a_bug.jpg](https://drive.google.com/uc?export=view&id=138bGOQA8hqPBT8y_nEpcDwyVrHJE_9MJ)
+![found_a_bug.jpg](https://drive.google.com/uc?export=view&id=1TjTGntxTZAuwSsrdcO0Y-vnykksKFp0y)
 
 There are two kinds of bugs in this world: bugs that aren’t too serious, and bugs that could cause is real harm if revealed to the public or if in the wrong hands.
 

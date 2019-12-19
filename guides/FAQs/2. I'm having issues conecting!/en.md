@@ -1,6 +1,6 @@
 # **I'm having issues connecting!**
 
-![trouble_connecting.png](https://drive.google.com/uc?export=view&id=1_RFjnji4lPT3Ql_hS6EUBHOZOgLY1OqR)
+![trouble_connecting.png](https://drive.google.com/uc?export=view&id=1kgI2UeeYElIQuWfLkKoGtKlcmQBIdvv5)
 
 Hm. Here are a few things that come to mind right off the bat:
 

@@ -1,6 +1,6 @@
 # **How can I join the server?**
 
-![i_cant_join.jpg](https://drive.google.com/uc?export=view&id=16XzEvIeHLUzfqUQWaRegCuiFBF2f_Quc)
+![i_cant_join.jpg](https://drive.google.com/uc?export=view&id=1KA1ruZ1EOJqE7zBUajZZuhBf1UFWrUBB)
 
 ### **Server IP: `play.walrus.network`**
 
