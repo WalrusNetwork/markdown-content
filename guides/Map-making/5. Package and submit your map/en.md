@@ -28,7 +28,7 @@ Also, take note of the following coding guidelines when creating your `map.xml` 
 
 ### **The Map Image**
 
-The `map.png` file displays the image of your map on the website. The standard resolution for these pictures is `290x246`. This image should contain a general overview of the map’s playing area.  A couple examples:
+The `map.png` file displays the image of your map on the website. The standard resolution for these pictures is **`290x246`**. This image should contain a general overview of the map’s playing area.  A couple examples:
 
 ![BlockRage_map.png](http://docs.oc.tc/img/BlockRage_map.png)
 
