@@ -2,8 +2,7 @@
 
 *The following guide was authored on the [docs.oc.tc website](http://docs.oc.tc/guides/packaging/pruning_chunks), and we've simply reused the guide and made a few minor tweaks.*
 
-We now need to prune the map, as skipping this step might result in empty chunks or blocks being left in the void, in various positions in the world (either you accidentally left a couple blocks out while building, or the world glitched and was created with some added blocks). The following guide was authored on the [docs.oc.tc website](http://docs.oc.tc/guides/packaging/pruning_chunks), and we've simply reused the guide and made a few minor tweaks.
-
+We now need to prune the map, as skipping this step might result in empty chunks or blocks being left in the void, in various positions in the world (either you accidentally left a couple blocks out while building, or the world glitched and was created with some added blocks).
 
 ### **1. Download MCEdit Unified**
 
