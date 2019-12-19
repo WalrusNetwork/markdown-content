@@ -1,10 +1,11 @@
 # **Welcome to the map-making corner!**
 
-Welome, adventurous youngling! If you've found your way here, it's maybe because you want to make a map and have it up on the Walrus servers for you and your friends to play on. Or you might just be a curious explorer of the web. Great to have ya!
+Welome, adventurous youngling!  If you've found your way here, it's maybe because you want to make a map and have it up on the Walrus servers for you and your friends to play on.  Or you might just be a curious explorer of the web.  Great to have ya!
 
-The maps available on our servers are made by both community members and our volunteers. If you've ever had a good map idea, and you want to build it and see if it can be loaded to the network, then you're in the right place.
+The maps available on our servers are made by both community members and our volunteers.  If you've ever had a good map idea, and you want to build it and see if it can be loaded to the network, then you're in the right place.
 
 If you own a map that was made under PGM, that is not in our catalogue of maps, and which you would like to submit to Walrus, have a look at the ["Convert your PGM map"][1] page on our documentation website.
+
 
 ## **Map-Corner Resources & Shortcuts**
 
