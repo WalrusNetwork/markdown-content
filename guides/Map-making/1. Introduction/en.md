@@ -32,11 +32,11 @@ Let's go through all of the steps required to get your map submitted and potenti
 If you have any questions throughout this process, please reach out to someone from the Map team!
 
 [1]: Convert your PGM Map link (from the docs.walrus.network website)
-[2]: /set-up-a-map-making-workspace
-[3]: /create-a-void-world
-[4]: /prune-your-map-with-mcedit-unified
+[2]: /guides/map-making/set-up-a-map-making-workspace
+[3]: /guides/map-making/create-a-void-world
+[4]: /guides/map-making//prune-your-map-with-mcedit-unified
 [5]: https://docs.walrus.network
-[6]: /package-and-submit-your-map
-[7]: /map-reviewal-process
-[8]: /map-is-in-production
+[6]: /guides/map-making//package-and-submit-your-map
+[7]: /guides/map-making//map-reviewal-process
+[8]: /guides/map-making//map-is-in-production
 [9]: https://forms.gle/1bLjskfuydmfeSh57
