@@ -35,7 +35,7 @@ Description:
 
 > A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We utilise a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
 
-> Qualifications:
+Qualifications:
 
 - Experience in administering Linux systems
 - An understanding of Kubernetes, cloud services, Git, and internet networking
@@ -49,7 +49,7 @@ Description:
 
 > Our API is the backbone of our technology and is responsible for managing all the servers we run across our scalable infrastructure. API Developers will be the ones working on this crucial part of our infrastructure.
 
-> Qualifications:
+Qualifications:
 
 - Experience in Ruby and Ruby on Rails
 - An understanding of Kubernetes, cloud services, Git, internet networking, and GraphQL services
@@ -60,7 +60,8 @@ Description:
 Description:
 
 > Gameplay is what makes Walrus fun, and Plugin Developers are the people who create the code that makes Walrus fun. Plugin Developers write our Bukkit Java plugins that run our games and manage our player’s experience. They also work on our Bungee plugins, which orchestrate communication across our fleet of game servers and with our API.
-> Qualifications:
+
+Qualifications:
 
 - Experience in Java, the Bukkit API, and the BungeeCord API
 - An understanding of Git, Ares gameplay, user experience, and GraphQL APIs
@@ -71,7 +72,8 @@ Description:
 Description:
 
 > Our website will be a key source of information for both new and current players. New players should be able to learn about the server and how to play our game modes, and current players should be able to interact with the community and see network-wide statistics. Website Developers will be responsible for creating a website that meets those needs and more.
-> Qualifications:
+
+Qualifications:
 
 - Experience in HTML, CSS, and Javascript
 - Knowledge of web frameworks and creating dynamic websites
@@ -83,7 +85,8 @@ Description:
 Description:
 
 > Aid with specific, subtle hack detection, complex appeal processes, and any AntiCheat ‘false-positive’ cases. Technical Moderators are veteran players who know the Minecraft Java game mechanics inside out.
-> Qualifications:
+
+Qualifications:
 
 - Great understanding of our service rules and policies
 - Long-time Minecraft java player & fundamental understanding of Minecraft’s complex relational mechanisms (e.g. knockback, lag, etc.)
@@ -97,7 +100,8 @@ Description:
 Description:
 
 > Moderators work as a team to keep our services safe and welcoming to all. As a moderator for Walrus, you are actively enforcing our service rules by encouraging positivity and issuing infractions to those who go against our policies. This also includes regularly responding to user-issued reports along with appeals that may be opened by users who have previously issued infractions. Moderators are role models of a community and have a profound impact on the player experience.
-> Qualifications:
+
+Qualifications:
 
 - Great understanding of our service rules and policies
 - Positive and empathetic
@@ -109,7 +113,8 @@ Description:
 Description:
 
 > Responsible for scheduling and hosting UHC matches for our players, as well as enforcing service rules on the UHC game servers. UHC Hosts are held to the same standards as our moderators are, and contribute just as equally at fostering community and having a positive, profound impact on the player experience.
-> Qualifications:
+
+Qualifications:
 
 - Great understanding of our UHC gamerules, general service rules and policies
 - Have regular availability and be an avid UHC amateur
@@ -121,7 +126,8 @@ Description:
 Description:
 
 > On Walrus, we aim to maintain a high standard for maps in our repository and to have gameplay be relatively consistent across all maps within a game. Map Developers are the curators who make this happen. Map Developers will take finished maps from Level Designers and Builders and write XML files for the maps which will describe how they function for our software. They’ll do this by referring to standards and conventions that they’ve helped develop in conjunction with the Director of Level Design. Map Developers are also responsible for maintaining our map pool and working with people from across our staff and community to choose which maps get played.
-> Qualifications:
+
+Qualifications:
 
 - Ability to read & write XML documents
 - Basic understanding of git
@@ -134,7 +140,8 @@ Description:
 Description:
 
 > Fun gameplay is at the core of our mission at Walrus, and our Level Designers are crucial to that. Level Designers take gameplay concepts and turn them into prototype maps to test and tweak until they’ve created a fun and exciting layout for our players to enjoy. They work closely with our Builders and Map Developers to make visually-appealing maps and create the code required for the maps to work with our software respectively.
-> Qualifications:
+
+Qualifications:
 
 - A deep understanding of what makes competitive Minecraft enjoyable for a varied range of audiences
 - In touch with our community and both its wants and needs
@@ -146,7 +153,8 @@ Description:
 Description:
 
 > Presentation is an important part of the levels in any game. At Walrus, we want to create game levels which are both fun to play and look amazing and our Builders help with the latter. Builders will be responsible for taking layouts that our Level Designers have worked on and turning them into unique and original maps that our players will love. They’ll be working closely with our Level Designers and Map Developers to create maps which are consistent with our standards throughout the process.
-> Qualifications:
+
+Qualifications:
 
 - Experience making great-looking Minecraft builds
 - Good communicator
@@ -157,7 +165,8 @@ Description:
 Description:
 
 > There’s no marketing without clear visuals. Our graphic designers coordinate with the other department staff to fulfill their communicative needs. The range here is extreme, from small cartoons to accompany introductory text, to artistic banners and logos, to detailed tutorial slides. We’ll give you a space to keep practicing your art, and both work with and learn from the rest of our team in a collaborative environment. All creative and artistic voices welcome!
-> Qualifications:
+
+Qualifications:
 
 - Experience with art design and a ready-to-show portfolio of work at hand
 - Good communicator and strong empathy skills
@@ -168,7 +177,8 @@ Description:
 Description:
 
 > Video producers are our graphic designers of the moving image. They work with other departments to fulfill communicative needs, deliver edited video content, and hype up the crowds. We’ll give you a space to keep practicing your art, and both work with and learn from the rest of our team in a collaborative environment. All creative and artistic voices welcome!
-> Qualifications:
+
+Qualifications:
 
 - Experience with video design, montage editing and production, and a ready-to-show portfolio of work at hand
 - Good communicator and strong empathy skills
@@ -179,7 +189,8 @@ Description:
 Description:
 
 > Our event team is responsible for coming up with event ideas, including event organization and planning. They give life to the server by coming up with both large and small scale events of different types, spanning a variety of our available gamemodes. They are creative, are in touch with both the competitive and broader playerbase, and have a sense of what the community needs and when.
-> Qualifications:
+
+Qualifications:
 
 - Ability to work in a team setting and collaborate with one another during the planning phase, and with the Operations staff running the show
 - Empathetic, engaging and close to the community
