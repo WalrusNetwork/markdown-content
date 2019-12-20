@@ -34,6 +34,7 @@ The following is a list of positions that we're currently looking to fill. You c
 Description:
 
 > A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We utilise a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
+
 > Qualifications:
 
 - Experience in administering Linux systems
@@ -47,6 +48,7 @@ Description:
 Description:
 
 > Our API is the backbone of our technology and is responsible for managing all the servers we run across our scalable infrastructure. API Developers will be the ones working on this crucial part of our infrastructure.
+
 > Qualifications:
 
 - Experience in Ruby and Ruby on Rails
