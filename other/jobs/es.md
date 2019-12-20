@@ -29,19 +29,30 @@ A continuación verás una lista de puestos que estamos buscando. Puedes enviar 
 
 `Nota:` Intentaremos actualizar esta lista cuando sea posible, pero no quizás no siempre estará actualizada. Por favor, perdónanos.
 
+### **Requisitos para todas las posiciones de desarrollador**
+
+Los siguientes requisitos son necesarios para todo aquel que quiera solicitar un puesto de desarrollador:
+
+- Buen comunicador, deberá escribir documentación sobre lo que esté desarrollando
+- Capaz de trabajar con y alrededor de un equipo de desarrolladores con diferentes habilidades en múltiples zonas horarias
+- Comprensión de los sistemas de control de versiones (VCS), como Git, y comprensión de buenas prácticas de control de versiones.
+- Una comprensión básica de Github y Gitlab
+- Una comprensión básica en general de las estrategias y mejores prácticas de integración continua (CI)
+
 ### **Administrador de sistemas**
 
 Descripción:
 
-> Un enfoque empresarial clave de Walrus es ofrecer una experiencia consistente y confiable para nuestros usuarios. El administrador de sistemas está a cargo de administrar nuestra infraestructura para brindar esa experiencia. Utilizamos tecnología específica del sector para hacer esto y nuestros administradores de sistemas deberán administrar estas tecnologías para solucionar problemas y asegurarse de que el servidor se mantenga en línea.
+> Una de las claves del negocio de Walrus es ofrecer una experiencia consistente y confiable para nuestros usuarios. El administrador de sistemas está a cargo de administrar nuestra infraestructura para brindar esa experiencia. Utilizamos tecnología específica del sector para hacer esto y nuestros administradores de sistemas deberán administrar estas tecnologías para solucionar problemas y asegurarse de que el servidor se mantenga en línea.
 
 Requisitos:
 
-- Experiencia administrando sistemas Linux
-- Conocimiento de Kubernetes, servicios en la nube, Git y redes
-- Muy confiable
-- Buen comunicador, deberá escribir documentación sobre lo que esté desarrollando
+- Profundo entendimiento de Kubernetes
+- Profundo entendimiento de orquestración de contenedores
 - Disponible para responder a situaciones urgentes
+- Cualquier experiencia con Docker es un _plus_
+- Cualquier experiencia con Google Cloud es un _plus_
+- Comprensión de los flujos de trabajo de red, como el filtrado y enrutamiento de paquetes
 
 ### **Desarrollador de APIs**
 
@@ -52,8 +63,10 @@ Descripción:
 Requisitos:
 
 - Experiencia con Ruby y Ruby on Rails
-- Conocimiento de Kubernetes, servicios en la nube, Git, redes y servicios GraphQL
-- Buen comunicador, deberá escribir documentación sobre lo que esté desarrollando
+- Conocimiento y comprensión de patrones de diseño funcionales
+- Experiencia en la creación y uso de servicios GraphQL
+- Experiencia con flujos de trabajo basados en servicios (_workflows_)
+- Se valoran habilidades básicas de HTML
 
 ### **Desarrollador de plugins**
 
@@ -63,9 +76,10 @@ Descripción:
 
 Requisitos:
 
-- Experiencia con Java y las API de Bukkit y BungeeCord
-- Conocimiento de Git, la modalidad de juego _Ares_ y servicios GraphQL
-- Buen comunicador, deberá escribir documentación sobre lo que esté desarrollando
+- Conocimiento medio-alto de Java
+- Conocimiento de patrones de diseño como programación asíncrona y abstracción
+- Experiencia básica con la API de Bukkit
+- Experiencia básica con la API de BungeeCord
 
 ### **Desarrollador web**
 
@@ -76,9 +90,10 @@ Descripción:
 Requisitos:
 
 - Experiencia con HTML, CSS y Javascript
-- Conocimiento de entornos web y creación de páginas dinámicas
-- Conocimiento de Git, experiencia global del usuario, buenos diseños y servicios GraphQL
-- Habilidad para comunicar sobre cualquier trabajo en progreso y comunicarse con desarrolladores y no-desarrolladores del staff.
+- Experiencia y conocimiento de _frameworks_ como React o Vue
+- Experiencia haciendo patrones dinámicos de diseño web
+- Experiencia usando y consumiendo APIs GraphQL
+- Comprensión de UX/UI y buenos patrones de diseño
 
 ### **Moderador Técnico**
 
