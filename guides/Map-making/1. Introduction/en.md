@@ -13,7 +13,7 @@ If you own a map that was made under PGM, that is not in our catalogue of maps, 
 - [Submit your finished map][9]
 - [Set up a map-making workspace][2]
 - [Convert your PGM map][1]
-- [Walrus XML Documentation][6]
+- [Walrus XML Documentation][5]
 
 
 ## **Make a map: steps A to Z**
