@@ -29,19 +29,31 @@ The following is a list of positions that we're currently looking to fill. You c
 
 `Note:` We try to update this list as frequently as possible, but it might not always be up to date. Please forgive us.
 
+
+### **Requirements for all development positions**
+
+The following requirements are needed for all of the following development positions:
+
+- Good communication skills, as you will need to develop documentation for what you work on
+- Able to work with and around a team of developers with varrying skill levels across multiple time zones
+- An understanding of Version Control Systems (VCS), such as Git, and an understanding of good versioning practices
+- A basic understanding of Github and Gitlab
+- A basic understanding in general continues integration (CI) strategies and best practices
+
 ### **System Administrator**
 
 Description:
 
 > A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We utilise a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
 
-> Qualifications:
+> Required Skills:
 
-- Experience in administering Linux systems
-- An understanding of Kubernetes, cloud services, Git, and internet networking
-- Very trustworthy
-- Good communicator, will need to develop documentation for what they work on
+- Deep understanding of Kubernetes
+- Deep understanding of container orchestration
 - Responsive to urgent situations
+- Experience with Docker is a plus
+- Google Cloud experience is helpful
+- An understanding of networking workflows such as packet filtering and routing
 
 ### **API Developer**
 
@@ -52,19 +64,23 @@ Description:
 > Qualifications:
 
 - Experience in Ruby and Ruby on Rails
-- An understanding of Kubernetes, cloud services, Git, internet networking, and GraphQL services
-- Good communicator, will need to maintain proper documentation on their work
+- An understanding of functional design patterns
+- Experience with creating and using GraphQL services
+- Experience with service based workflows
+- Basic HTML skills are helpful
 
 ### **Plugin Developer**
 
 Description:
 
 > Gameplay is what makes Walrus fun, and Plugin Developers are the people who create the code that makes Walrus fun. Plugin Developers write our Bukkit Java plugins that run our games and manage our player’s experience. They also work on our Bungee plugins, which orchestrate communication across our fleet of game servers and with our API.
+
 > Qualifications:
 
-- Experience in Java, the Bukkit API, and the BungeeCord API
-- An understanding of Git, Ares gameplay, user experience, and GraphQL APIs
-- Good communicator, will need to maintain proper documentation on their work
+- A medium to extensive understanding of Java
+- Knowledge of design patterns such as asynchronous programming and abstraction
+- Basic experience with the Bukkit API
+- Basic experience with the BungeeCord API
 
 ### **Web Developer**
 
@@ -74,9 +90,10 @@ Description:
 > Qualifications:
 
 - Experience in HTML, CSS, and Javascript
-- Knowledge of web frameworks and creating dynamic websites
-- An understanding of Git, user experience, good design, and GraphQL APIs
-- Ability to communicate work in progress and communicate with both dev & non-development staff
+- Knowledge of web frameworks such as NodeJS 
+- Experience with dynamic web design patterns
+- Experience with using GraphQL APIs
+- An understanding of user experience and good design patterns
 
 ### **Technical Moderator**
 
