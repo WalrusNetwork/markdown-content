@@ -20,7 +20,7 @@ If you own a map that was made under PGM, that is not in our catalogue of maps, 
 
 Let's go through all of the steps required to get your map submitted and potentially loaded, from the idea to the final submission:
 
-1. You've got a map idea. Great! Or you don't have one yet, but you wana start building: also great!
+1. You've got a map idea. Great! Or you don't have one yet, but you wanna start building: also great!
 2. You need to build your map somewhere, so let's get you set up on your own local server, with the map-making tools installed: [Set up a map-making workspace][2]
 3. [Create a void world][3] using Multiverse Core and build away!
 4. [Prune your map with MCEdit Unified][4]
