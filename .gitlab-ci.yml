@@ -1,0 +1,8 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  trigger: website/website
+  only:
+    - master
