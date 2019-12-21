@@ -24,7 +24,8 @@
 8. "One physical movement of a body part = one single press of a button = one single in-game action (i.e. a single click)"
   1. Butterfly click at your own risks and perils.
 9. Do not attempt to harm or bring down any of our services.  Do not exploit any bugs; instead, report them to a staff member.
-10. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
+10. If you are banned or muted, do not try to evade the punishment(s) on your main account with an alternate account.
+11. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
 
 ### **Consequences: Unfair Advantages**
 
