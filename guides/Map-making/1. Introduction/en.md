@@ -31,7 +31,7 @@ Let's go through all of the steps required to get your map submitted and potenti
 
 If you have any questions throughout this process, please reach out to someone from the Map team!
 
-[1]: Convert your PGM Map link (from the docs.walrus.network website)
+[1]: #
 [2]: /guides/map-making/set-up-a-map-making-workspace
 [3]: /guides/map-making/create-a-void-world
 [4]: /guides/map-making/prune-your-map-with-mcedit-unified
