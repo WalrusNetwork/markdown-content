@@ -42,9 +42,7 @@
 
     4. Game clients such as Badlion Client, LabbyMod, Lunar Client, OCMC, 5Zig, Cosmic Client, PvP Lounge…
 
-8. "One physical movement of a body part = one single press of a button = one single in-game action (i.e. a single click)"
-
-    1. Butterfly click at your own risks and perils.
+8. One physical movement of a body part = one single press of a button = one single in-game action (i.e. a single click).  Butterfly click at your own risks and perils.
 
 9. Do not attempt to harm or bring down any of our services.  Do not exploit any bugs; instead, report them to a staff member.
 
@@ -70,4 +68,4 @@
 4. The combination of Combat and Information & Miscellaneous advantages will be dealt a 1 year first-instance ban.
 
 
-`Note`:We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
+`Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
