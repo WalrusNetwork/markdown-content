@@ -1,6 +1,6 @@
 ## **Welcome to our player guides section!**
 
-You're here because you have an unanswered question about who we are and what we do, you're experiencing an issue that you'd like resolved. The guides are structured in the following two drop-down sections:
+Have an unanswered question about who we are and what we do?  Experiencing an issue that you'd like resolved?  Wondering how you can contribute? You're in the right place.  The guides are structured in the following two drop-down sections:
 
 - FAQs
 - Map-making Corner
