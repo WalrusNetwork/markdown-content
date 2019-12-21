@@ -1,7 +1,7 @@
 # **Player Rules**
 
 1. Maintain a respectful and friendly behavior across our services.  Toxicity will be punished: nobody likes a downer.  Use common sense.  Anything inappropriate should be kept to private communication channels.
-2. Do not accusate other players of cheating or of rule-breaking.  Instead, use the [/report](https://walrus.network/guides/faqs/how-can-i-report-a-player) command.
+2. Do not accuse other players of rule-breaking or using an unfair advantage.  Instead, use the [/report](https://walrus.network/guides/faqs/how-can-i-report-a-player) command.
 3. Follow staff instructions.  They are here to help and ensure players have an enjoyable experience on our services.
 4. On our team-based gamemodes (such as Ares), do not:
     1. Team-grief: defined as being detrimental to your team in their efforts to win the match.  Examples are blowing up your team’s side, destroying your team’s strategic structures (skybridges or defenses), or otherwise harming your teammates.
