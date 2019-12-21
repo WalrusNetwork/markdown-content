@@ -8,7 +8,7 @@ Good question! It depends on the position you're applying for. Below are a few q
 
 - Discuss any career moments relevant to the position you're applying for: who did you work for? Doing what?
 - Do you have a portfolio of work you've made that you can show (if applicable)?
-- What's an iniative or project you might have been working on lately that you care about?
+- What's an initiative or project you might have been working on lately that you care about?
 - Tell us about any previous experience in the topic / role.
 - What's your relationship with Minecraft? Were you part of any Minecraft communities?
 - What motivates you to help feed the Walrus?
@@ -35,7 +35,7 @@ The following is a list of positions that we're currently looking to fill. You c
 The following requirements are needed for all of the following development positions:
 
 - Good communication skills, as you will need to develop documentation for what you work on
-- Able to work with and around a team of developers with varrying skill levels across multiple time zones
+- Able to work with and around a team of developers with varying skill levels across multiple time zones
 - An understanding of Version Control Systems (VCS), such as Git, and an understanding of good versioning practices
 - A basic understanding of Github and Gitlab
 - A basic understanding in general continues integration (CI) strategies and best practices
@@ -44,7 +44,7 @@ The following requirements are needed for all of the following development posit
 
 Description:
 
-> A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We utilise a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
+> A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We use a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
 
 > Required Skills:
 
