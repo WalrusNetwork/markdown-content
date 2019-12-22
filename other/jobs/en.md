@@ -1,6 +1,6 @@
 # **Walrus Job Postings**
 
-We rely on our wonderful volunteers to power this community and the work we do. As a volunteer, we can offer you real time, hands-on experience in a variety of domains and skillsets, collaboration with experienced peers, and an enjoyable side-position for you to occupy.
+We rely on our wonderful volunteers and independent contractors to power this community and the work we do. As a volunteer or contractor, we can offer you real time, hands-on experience in a variety of domains and skillsets, collaboration with experienced peers, and an enjoyable side-position for you to occupy.
 
 ## **What should I include in my application?**
 
@@ -115,7 +115,7 @@ Qualifications:
 
 Description:
 
-> Moderators work as a team of volunteers to keep our services safe and welcoming to all. As a moderator for Walrus, you are actively enforcing our service rules by encouraging positivity and issuing infractions to those who go against our policies. This also includes regularly responding to user-issued reports along with appeals that may be opened by users who have previously issued infractions. Moderators are role models of a community and have a profound impact on the player experience.
+> Moderators work as a team to keep our services safe and welcoming to all. As a moderator for Walrus, you are actively enforcing our service rules by encouraging positivity and issuing infractions to those who go against our policies. This also includes regularly responding to user-issued reports along with appeals that may be opened by users who have previously issued infractions. Moderators are role models of a community and have a profound impact on the player experience.
 
 Qualifications:
 
