@@ -114,4 +114,4 @@ You’re welcome.
 
 ---
 
-Please reach out to a staff member or email marketing@walrus.network if you find inconsistencies in this document.
+Please reach out to a staff member or email [marketing@walrus.network](mailto:marketing@walrus.network) if you find inconsistencies in this document.
