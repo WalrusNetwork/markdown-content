@@ -1,26 +1,10 @@
-# **¡La web de Walrus ya está disponible!**
+#**Día 2: Sistema de sanciones**
 
-### En nuestra página web, podrás encontrar lo siguiente:
+Hoy estamos entusiasmados de publicar un resumen de cómo pretendemos implementar nuestras sanciones y como vamos a hacer cumplir las reglas. Puedes verlo haciendo click en [este enlace](/punishments).
 
-- Información en vivo de nuestros servidores y partidas en ejecución
-- Un calendario de eventos que hacemos regularmente
-- Acceso a nuestra tienda
-- Perfiles individuales de usuarios con estadísticas personalizadas (¡Estate atento!)
-- Tablas de clasificación y modalidades de juego
-- Recursos como nuestras secciones de guías, lista de preguntas frecuentes y nuestro rincón de creación de mapas
-- Nuestras reglas
-- Nuestros términos y condiciones
-- Nuestras políticas de privacidad y cookies
-- Ofertas de trabajo
-- Publicaciones de blog y actualizaciones periódicas (como ésta), también anunciaremos una característica de Walrus cada día en un post, así que revísa la página web regularmente
+Siéntate con un vaso de leche y un par de galletas cuando te sientas preparado (esperamos que no seas intolerante a la lactosa) y lee el documento encarecidamente. Es un poco más largo que cualquier documento que puedas encontrar en tu día a día ya que el sistema tiene algunos trucos, pero ser abiertos y claros a la hora de explicar cómo pretendemos hacer cumplir nuestras reglas de servicio con nuestros usuarios.
 
-Nuestro objetivo es tener todas estas características en funcionamiento para la Beta, es decir, el 1 de enero. Como podrás ver, algunas de estas características ya están activas, mientras que otras aún están en proceso: ¡Ten paciencia! Estamos organizándolo todo para estar más fuertes que nunca.
+¡Estamos siempre abiertos a ideas y comentarios! El canal `#español` en [nuestro Discord](https://discord.gg/eySJYEb) es un gran lugar para aquellos quienes estén interesados en hacerlo.
 
-Si encuentras algún error en la página web por favor contacta con un miembro del staff en [nuestro Discord](https://discord.gg/eySJYEb). También nos puedes enviar un tweet a [@Walrusnet](https://twitter.com/@walrusnet) o un mensaje en [Instagram](https://instagram.com/walrusinsta). O si quieres decirnos cuanto te gusta la página, también está bien.
-
-Muchas gracias a nuestros desarrolladores web, en especial a Indicado y ALM, para poner el sitio web en funcionamiento, así como a nuestra gente de Marketing por el contenido y los gráficos. ¡Muchas gracias a nuestros diseñadores gráficos [Elusiveblank](https://twitter.com/elusiveblank) y [Fleuor](https://twitter.com/lineticartworks) por los diseños que ves en esta página y a [Strangey](https://twitter.com/Strangeys) y [Anbu\_](https://twitter.com/anbuXD) por el banner.
-
-Revisa regularmente la página para informarte de todas las novedades que están por venir.
-Atentamente,
-
+¡Feliz domingo y gracias!
 Walrus
