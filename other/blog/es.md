@@ -5,4 +5,5 @@ Siéntate con un vaso de leche y un par de galletas cuando te sientas preparado 
 ¡Estamos siempre abiertos a ideas y comentarios! El canal `#español` en [nuestro Discord](https://discord.gg/eySJYEb) es un gran lugar para aquellos quienes estén interesados en hacerlo.
 
 ¡Feliz domingo y gracias!
+
 Walrus

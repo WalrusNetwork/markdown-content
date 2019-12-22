@@ -5,4 +5,5 @@ Sit down with a glass of milk and a couple cookies when you’re next ready (we 
 We’re always open to your thoughts and feedback! The `#discussion` channel in [our Public Discord](https://discord.gg/eySJYEb) is a great place for those.
 
 Thanks and happy Sunday!
+
 Walrus
