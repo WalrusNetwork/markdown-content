@@ -76,7 +76,7 @@
 
 `Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
 
-`Note`: Modified Knockback is considered a Combat infraction.
+`Note`: Modified Knockback is considered an unfair advantage of Combat type.
 
 We've provided a friendly infographic for your convenience summarizing hack types below:
 
