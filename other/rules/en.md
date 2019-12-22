@@ -61,11 +61,11 @@
 
     3. **Combat**: any tool which provides for different combat mechanics than those typical of vanilla users (examples: modified knockback, AutoClick, Aimbot, Triggerbot,  KillAura/Forcefield, macros, Reach)
 
-2. Stand-alone Movement and Information advantages will be dealt a 3 month first-instance ban.  Stand-alone Combat advantages will be dealt a 1 year first-instance ban.
+2. **Stand-alone Movement** and **stand-alone Information & Miscellaneous** advantages will be dealt a **3 month first-instance ban**.  **Stand-alone Combat** advantages will be dealt a **1 year first-instance ban**.
 
-3. Stand-alone Movement and Information advantages will be dealt a 3 month first-instance ban.  Stand-alone Combat advantages will be dealt a 1 year first-instance ban.
+3. The **combination of Movement and Combat** advantages, or **Movement and Information & Miscellaneous** advantages, will all be dealt a **3 month first-instance ban**.
 
-4. The combination of Combat and Information & Miscellaneous advantages will be dealt a 1 year first-instance ban.
+4. The **combination of Combat and Information & Miscellaneous** advantages will be dealt a **1 year first-instance ban.**
 
 
 `Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
