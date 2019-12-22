@@ -48,7 +48,13 @@
 
 10. If you are banned or muted, do not try to evade the punishment(s) on your main account with an alternate account.
 
-11. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
+11. Do not attempt to send or provide any phishing, pornographic, immature or otherwise inappropriate links and references on our services.
+
+12. Do not advertise any other services other than those provided by Walrus LLC, without a staff member's explicit consent.
+
+13. Do not attempt to impersonate any of our staff.
+
+14. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
 
 
 ### **Consequences: Unfair Advantages**
