@@ -58,26 +58,31 @@
 14. The senior staff reserve the right to enforce punishments on players at any given time, of any level of severity.
 
 
-### **Consequences: Unfair Advantages**
+### **Types: Unfair Advantages**
 
 1. We distinguish among three types of unfair advantages: Movement, Combat, Information & Miscellaneous.
 
-    1. **Movement**: any tool which modifies vanilla movement mechanics (examples: flying, Speed, Glide, Spider, B-Hop, ToggleSneak, NoSlowDown, Dolphin, Blink)
+    1. **Movement**: any tool which modifies vanilla movement mechanics (examples: flying, Speed, Glide, Spider, B-Hop, ToggleSneak, NoSlowDown, Dolphin, Blink).
 
-    2. **Information & Miscellaneous**: any tool which provides more information to the user on the player environment than is available to vanilla users, or is a tool that does not fall under either the Movement or Combat categories (examples: radar, X-Ray, AutoBuild, Regen, AutoTool)
+    2. **Information & Miscellaneous**: any tool which provides more information to the user on the player environment than is available to vanilla users, or is a tool that does not fall under either the Movement or Combat categories (examples: radar, X-Ray, AutoBuild, Regen, AutoTool).
 
-    3. **Combat**: any tool which provides for different combat mechanics than those typical of vanilla users (examples: modified knockback, AutoClick, Aimbot, Triggerbot,  KillAura/Forcefield, macros, Reach)
-
-2. **Stand-alone Movement** and **stand-alone Information & Miscellaneous** advantages will be dealt a **3 month first-instance ban**.  **Stand-alone Combat** advantages will be dealt a **1 year first-instance ban**.
-
-3. The **combination of Movement and Combat** advantages, or **Movement and Information & Miscellaneous** advantages, will all be dealt a **3 month first-instance ban**.
-
-4. The **combination of Combat and Information & Miscellaneous** advantages will be dealt a **1 year first-instance ban.**
-
-`Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
+    3. **Combat**: any tool which provides for different combat mechanics than those typical of vanilla users (examples: modified knockback, AutoClick, Aimbot, Triggerbot,  KillAura/Forcefield, macros, Reach).
 
 `Note`: Modified Knock-back is considered an unfair advantage of Combat type.
 
-We've provided a friendly infographic for your convenience summarizing the consequences associated with stand-alone and combined usage of unfair advantage:
+### **Consequences: Unfair Advantages**
+
+Laid out below are the consequences related to the use of any tools which give an unfair advantage.
+
+1. **Stand-alone Movement** and **stand-alone Information & Miscellaneous** advantages will be dealt a **3 month first-instance ban**.  **Stand-alone Combat** advantages will be dealt a **1 year first-instance ban**.
+
+2. The **combination of Movement and Combat** advantages, or **Movement and Information & Miscellaneous** advantages, will all be dealt a **3 month first-instance ban**.
+
+3. The **combination of Combat and Information & Miscellaneous** advantages will be dealt a **1 year first-instance ban.**
+
+`Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
+
+
+We've provided a friendly infographic for your convenience, summarizing the consequences associated with stand-alone and combined usage of unfair advantages:
 
 ![hack_types.png](https://drive.google.com/uc?export=view&id=1pnVmtZgvISiqiqk2Sm-C8CPv9QAkZN5u)
