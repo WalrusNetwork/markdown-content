@@ -1,11 +1,10 @@
 # **Welcome to the map-making corner!**
 
-Welcome! If you've found your way here, it's maybe because you want to make a map and have it up on the Walrus servers for you and your friends to play on.  Or you're just browsing the Walrus website: good for you.
+Welcome! If you've found your way here, it's maybe because you want to make a map and have it up on the Walrus servers for you and your friends to play on. Or you're just browsing the Walrus website: good for you.
 
-The maps available on our servers are made by both community members and our volunteers.  If you've ever had a good map idea, and you want to build it and see if it can be loaded to the network, then you're in the right place.
+The maps available on our servers are made by both community members and our volunteers. If you've ever had a good map idea, and you want to build it and see if it can be loaded to the network, then you're in the right place.
 
 If you own a map that was made under PGM, that is not in our catalogue of maps, and which you would like to submit to Walrus, have a look at the ["Convert your PGM map"][1] page on our documentation website.
-
 
 ## **Map-Corner Resources & Shortcuts**
 
@@ -14,7 +13,6 @@ If you own a map that was made under PGM, that is not in our catalogue of maps, 
 - [Set up a map-making workspace][2]
 - [Convert your PGM map][1]
 - [Walrus XML Documentation][5]
-
 
 ## **Make a map: steps A to Z**
 
@@ -38,5 +36,5 @@ If you have any questions throughout this process, please reach out to someone f
 [5]: https://docs.walrus.network
 [6]: /guides/map-making/package-and-submit-your-map
 [7]: /guides/map-making/map-reviewal-process
-[8]: /guides/map-making/map-is-in-production
+[8]: /guides/map-making/production-and-updates
 [9]: https://forms.gle/1bLjskfuydmfeSh57
