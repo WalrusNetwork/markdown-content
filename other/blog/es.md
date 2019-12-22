@@ -2,7 +2,7 @@
 
 ### En nuestra página web, podrás encontrar lo siguiente:
 
-- Información en vivo de nuestros servidores de juegos y partidos en ejecución
+- Información en vivo de nuestros servidores y partidas en ejecución
 - Un calendario de eventos que hacemos regularmente
 - Acceso a nuestra tienda
 - Perfiles individuales de usuarios con estadísticas personalizadas (¡Estate atento!)
@@ -12,7 +12,7 @@
 - Nuestros términos y condiciones
 - Nuestras políticas de privacidad y cookies
 - Ofertas de trabajo
-- Publicaciones de blog y actualizaciones periódicas (como esta), también anunciaremos una característica de Walrus cada día en un post, así que revísalo regularmente
+- Publicaciones de blog y actualizaciones periódicas (como ésta), también anunciaremos una característica de Walrus cada día en un post, así que revísa la página web regularmente
 
 Nuestro objetivo es tener todas estas características en funcionamiento para la Beta, es decir, el 1 de enero. Como podrás ver, algunas de estas características ya están activas, mientras que otras aún están en proceso: ¡Ten paciencia! Estamos organizándolo todo para estar más fuertes que nunca.
 
