@@ -46,7 +46,7 @@ Description:
 
 > A key business focus of Walrus is to deliver a consistent and reliable experience for our users. System Administrators are in charge of managing our infrastructure to deliver that experience. We use a number of technologies in the business to do this and our System Administrators will need to manage these technologies to troubleshoot issues and make sure the server stays online.
 
-> Required Skills:
+Required Skills:
 
 - Deep understanding of Kubernetes
 - Deep understanding of container orchestration
