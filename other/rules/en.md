@@ -1,4 +1,5 @@
 # **Player Rules**
+*Last updated: December 22nd, 2019*
 
 1. Maintain a respectful and friendly behavior across our services.  Toxicity will be punished: nobody likes a downer.  Use common sense.  Anything inappropriate should be kept to private communication channels.
 
@@ -73,5 +74,10 @@
 
 4. The **combination of Combat and Information & Miscellaneous** advantages will be dealt a **1 year first-instance ban.**
 
-
 `Note`: We explicitly state “first-instance” here to suggest that these are the consequences for a first-time cheating offense.  Any repeat offenses (i.e. found cheating or with an advantage multiple times) will be dealt harsher punishments.
+
+`Note`: Modified Knockback is considered a Combat infraction.
+
+We've provided a friendly infographic for your convenience summarizing hack types below:
+
+![hack_types.png](https://drive.google.com/uc?export=view&id=1pnVmtZgvISiqiqk2Sm-C8CPv9QAkZN5u)
