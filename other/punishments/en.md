@@ -121,6 +121,7 @@ You’re welcome.
     <img src="https://drive.google.com/uc?export=view&id=1bsted8qYP1CXze6OmnPo1-qRMAJHOVos" alt="" style="max-width: 100%" />
   </div>
 </div>
----
+
+--------------
 
 Please reach out to a staff member or email [marketing@walrus.network](mailto:marketing@walrus.network) if you find inconsistencies in this document.
