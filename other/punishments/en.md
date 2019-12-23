@@ -18,7 +18,7 @@ We’ve trained our moderators to recognize 1. The type of infraction (was it ch
 
 **Example**: you were last banned for a day, and you again blow up your teammates’ chest (considered team-griefing and illegal). A mod gives you a Category 1 infraction (Category 1 includes minor infractions, see infographic below). The system will bump you up a level, to the 3-day ban, which is the next level on the track. You are now banned for 3 days.
 
-In addition, any infraction that is typical of a Category 1 (C1) or Category 2 (C2) punishment on either track will receive a warn if you have no previous infractions or warns for the specific rule that you just broke. For example: you just spammed multiple messages for the first time ever (spam is illegal). If the mod thinks this was C1 or C2 worthy, they will warn you for spamming, instead of punishing, because you might have not known about the rule. The mod gave you the benefit of the doubt: now, you know better than to spam. The next time you do it, a mod will punish you for it because you already learned about the rule and give you a C1 or C2.
+In addition, any infraction that is typical of a Category 1 (C1) or Category 2 (C2) punishment on either track will receive a warn if you have no previous infractions or warns for the specific rule that you just broke.  For example: you just spammed multiple messages for the first time ever (spam is illegal). If the mod thinks this was C1 or C2 worthy, they will warn you for spamming, instead of punishing, because you might have not known about the rule. The mod gave you the benefit of the doubt: now, you know better than to spam. The next time you do it, a mod will punish you for it because you already learned about the rule and give you a C1 or C2.
 
 ### **Game Track: Levels**
 
@@ -50,19 +50,6 @@ Below is the list of levels on the **Chat** track. These represent the duration 
 10. 1 month
 11. 3 months (Category 4 infractions start here)
 
-### **Chat Track: Categories & Consequences**
-
-Below is a breakdown of the **Chat** categories, and how many levels they will bump you up on the track:
-
-- C1 is for a minor chat infraction. A C1 will repeat your current level (if you were last muted for 30 minutes, you will again be muted for 30 minutes).
-
-- C2 is for a standard chat infraction. A C2 will bump you up one level.
-
-- C3 is for extreme or excessive chat infractions. A C3 will bump you up 2 levels. You are not required to have been previously warned or punished for the rule you broke before receiving a C3.
-
-- C4 is for extreme harassment, threatening and violence. A C3 will put you straight at the 3 month mute level. You are not required to have been previously warned or punished for the rule you broke before receiving a C4.
-  - `Note:`A Senior Mod may choose to extend the duration of a C4 mute after is has been dealt, or change the mute to a ban (extreme aggression and harassment fall under the C4 category).
-
 ### **Game Track: Categories & Consequences**
 
 Below is a breakdown of the **Game** categories, and how many levels they will bump you up on the track:
@@ -80,6 +67,32 @@ Below is a breakdown of the **Game** categories, and how many levels they will b
 - A C5 will put you straight off at the 3 month ban level. You are not required to have been previously warned or punished for the rule you broke before receiving a C5. This is meant for hacks and unfair advantages (see the `Types: Unfair Advantages` and `Consequences: Unfair Advantages` sections of [our Player Rules page](/rules)).
 
 - A C6 will put you straight off at the 1 year ban level. You are not required to have been previously warned or punished for the rule you broke before receiving a C6. This is meant for hacks and unfair-advantages (see the `Types: Unfair Advantages` and `Consequences: Unfair Advantages` sections of [our Player Rules page](/rules)).
+
+
+### **Chat Track: Categories & Consequences**
+
+Below is a breakdown of the **Chat** categories, and how many levels they will bump you up on the track:
+
+- C1 is for a minor chat infraction. A C1 will repeat your current level (if you were last muted for 30 minutes, you will again be muted for 30 minutes).
+
+- C2 is for a standard chat infraction. A C2 will bump you up one level.
+
+- C3 is for extreme or excessive chat infractions. A C3 will bump you up 2 levels. You are not required to have been previously warned or punished for the rule you broke before receiving a C3.
+
+- C4 is for extreme harassment, threatening and violence. A C3 will put you straight at the 3 month mute level. You are not required to have been previously warned or punished for the rule you broke before receiving a C4.
+  - `Note:`A Senior Mod may choose to extend the duration of a C4 mute after is has been dealt, or change the mute to a ban (extreme aggression and harassment fall under the C4 category).
+
+
+### **Ban Evasion**
+
+In the event that a player is found evading either their chat or their game punishment:
+
+- The main account is bumped up **TWO** tiers on the corresponding punishment track.
+
+- The alt account is set to the identical punishment level as the main account, after the main account has been bumped up two tiers.
+
+**Example**: Joe is caught fly hacking and receives a 3 month ban.  Joe hops on his account ‘Susan’ to evade the ban, and is caught.  Joe skips the 6 month level and goes straight to a 1 year ban.  The account 'Susan' is matched to this 1 year ban.
+
 
 ### **Special Cases and Notes**
 
