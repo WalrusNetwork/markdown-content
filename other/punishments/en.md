@@ -88,11 +88,11 @@ Below is a breakdown of the **Chat** categories, and how many levels they will b
 
 In the event that a player is found evading either their chat or their game punishment:
 
-- The main account is bumped up **TWO** tiers on the corresponding punishment track.
+- The main account is bumped up **ONE** tier on the corresponding punishment track (chat or game).
 
-- The alt account is set to the identical punishment level as the main account, after the main account has been bumped up two tiers.
+- The alt account is set to the identical punishment level as the main account, after the main account has been bumped up one tier.
 
-**Example**: Joe is caught fly hacking and receives a 3 month ban.  Joe hops on his account ‘Susan’ to evade the ban, and is caught.  Joe skips the 6 month level and goes straight to a 1 year ban.  The account 'Susan' is matched to this 1 year ban.
+**Example**: Joe is caught fly hacking and receives a 3 month ban.  Joe hops on his account ‘Susan’ to evade the ban, and is caught.  Both accounts Joe and Susan are set to a 6 month ban, as 6 months is the next logical level on the Game track.
 
 
 ### **Special Cases and Notes**
