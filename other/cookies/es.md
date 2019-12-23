@@ -1,10 +1,10 @@
 # Política de cookies
 
-*Última actualización: 15 de octubre de 2019*
+_Última actualización: 15 de octubre de 2019_
 
-Esta Política de cookies explica cómo Walrus LLC ("Empresa", "nosotros" y "nuestro") utiliza cookies y tecnologías similares para reconocerle cuando visita nuestro sitio web en [https://walrus.network/] ( https://walrus.network/), ("sitio"). Ésta explica cuáles son estas tecnologías y por qué las usamos, así como sus derechos para controlar nuestro uso de ellas.
+Esta Política de cookies explica cómo Walrus LLC ("Empresa", "nosotros" y "nuestro") utiliza cookies y tecnologías similares para reconocerte al visitar nuestro sitio web en [https://walrus.network/](https://walrus.network/), ("sitio web"). Ésta explica cuáles son estas tecnologías y por qué las usamos, así como tus derechos para controlar nuestro uso de ellas.
 
-En algunos casos, podemos usar cookies para recopilar información personal, o eso se convierte en información personal si la combinamos con otra información.
+En algunos casos, podemos usar cookies para recopilar información personal, que se convierte en información personal si la combinamos con otra información.
 
 ### ¿Qué son las cookies?
 
@@ -20,17 +20,17 @@ Utilizamos cookies propias y de terceros por varios motivos. Algunas cookies son
 
 La administración de sus cookies y preferencias de cookies debe realizarse desde las opciones / preferencias de tu navegador.
 
-* [Microsoft Internet Explorer](https://support.microsoft.com/es-es/help/17442/windows-internet-explorer-delete-manage-cookies)
+- [Microsoft Internet Explorer](https://support.microsoft.com/es-es/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-* [Microsoft Edge](https://privacy.microsoft.com/es-es/windows-10-microsoft-edge-and-privacy)
+- [Microsoft Edge](https://privacy.microsoft.com/es-es/windows-10-microsoft-edge-and-privacy)
 
-* [Mozilla Firefox](https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-)
+- [Mozilla Firefox](https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-)
 
-* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)
+- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)
 
-* [Safari para macOS](https://support.apple.com/kb/PH21411)
+- [Safari para macOS](https://support.apple.com/kb/PH21411)
 
-* [Safari para iOS](https://support.apple.com/es-es/HT201265)
+- [Safari para iOS](https://support.apple.com/es-es/HT201265)
 
 ### Cookies esenciales del sitio web:
 
