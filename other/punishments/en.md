@@ -50,6 +50,7 @@ Below is the list of levels on the **Chat** track. These represent the duration 
 10. 1 month
 11. 3 months (Category 4 infractions start here)
 
+
 ### **Game Track: Categories & Consequences**
 
 Below is a breakdown of the **Game** categories, and how many levels they will bump you up on the track:
