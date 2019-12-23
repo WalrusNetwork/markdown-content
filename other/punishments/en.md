@@ -50,7 +50,6 @@ Below is the list of levels on the **Chat** track. These represent the duration 
 10. 1 month
 11. 3 months (Category 4 infractions start here)
 
-
 ### **Game Track: Categories & Consequences**
 
 Below is a breakdown of the **Game** categories, and how many levels they will bump you up on the track:
@@ -64,6 +63,7 @@ Below is a breakdown of the **Game** categories, and how many levels they will b
 - C4 covers anything worse than a C3 (consider: DDOS of the server). A C4 will put you straight off at the 1 year ban level. You are not required to have been previously warned or punished for the rule you broke before receiving a C4.
 
   - `Note`: A Senior Mod may choose to extend the duration of a C4 ban.
+
 
 - A C5 will put you straight off at the 3 month ban level. You are not required to have been previously warned or punished for the rule you broke before receiving a C5. This is meant for hacks and unfair advantages (see the `Types: Unfair Advantages` and `Consequences: Unfair Advantages` sections of [our Player Rules page](/rules)).
 
@@ -81,6 +81,7 @@ Below is a breakdown of the **Chat** categories, and how many levels they will b
 - C3 is for extreme or excessive chat infractions. A C3 will bump you up 2 levels. You are not required to have been previously warned or punished for the rule you broke before receiving a C3.
 
 - C4 is for extreme harassment, threatening and violence. A C3 will put you straight at the 3 month mute level. You are not required to have been previously warned or punished for the rule you broke before receiving a C4.
+
   - `Note:`A Senior Mod may choose to extend the duration of a C4 mute after is has been dealt, or change the mute to a ban (extreme aggression and harassment fall under the C4 category).
 
 
