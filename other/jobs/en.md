@@ -17,7 +17,7 @@ Good question! It depends on the position you're applying for. Below are a few q
 
 What you decide to include in your application remains between you and us, and we will keep confidential any information you decided to submit.
 
-You can write your app up in a document and email it to us at [support@walrus.network](mailto:support@walrus.network) when you're ready. Walruses enjoy **PDFs** in particular. If your app retains our attention, we'll be sure to respond, but we're currently a little overloaded with things so please excuse us if we aren't able to follow up just yet with turned down apps.
+You can write your app up in a document and email it to us at [jobs@walrus.network](mailto:jobs@walrus.network) when you're ready. Walruses enjoy **PDFs** in particular. If your app retains our attention, we'll be sure to respond, but we're currently a little overloaded with things so please excuse us if we aren't able to follow up just yet with turned down apps.
 
 Let us know if you have any questions. Thanks for your trust and we're looking forward to reading through your app!
 
