@@ -101,10 +101,10 @@ You’re welcome.
 
 <div class="row">
   <div class="col-lg-6">
-    ![game_infractions.png](https://drive.google.com/uc?export=view&id=1_bZyW2spQ5KZrwJ3SRYy_z_iwUsfzLVf)
+    <img src="https://drive.google.com/uc?export=view&id=1_bZyW2spQ5KZrwJ3SRYy_z_iwUsfzLVf" alt="" style="max-width: 100%" />
   </div>
   <div class="col-lg-6">
-![mute_infractions.png](https://drive.google.com/uc?export=view&id=1bsted8qYP1CXze6OmnPo1-qRMAJHOVos)
+    <img src="https://drive.google.com/uc?export=view&id=1bsted8qYP1CXze6OmnPo1-qRMAJHOVos" alt="" style="max-width: 100%" />
   </div>
 </div>
 ---
