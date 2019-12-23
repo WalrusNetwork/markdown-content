@@ -122,6 +122,8 @@ You’re welcome.
   </div>
 </div>
 
+*Thanks to Elusiveblank for these graphics.*
+
 --------------
 
 Please reach out to a staff member or email [marketing@walrus.network](mailto:marketing@walrus.network) if you find inconsistencies in this document.
