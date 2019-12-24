@@ -1,6 +1,6 @@
-¡Hoy anunciamos una lista de estadísticas de jugadores que vamos a recopilar en nuestro servidor! A continuación detallamos cuales:
+¡Hoy anunciamos una lista de estadísticas que vamos a recopilar en nuestro servidor! A continuación detallamos cuales:
 
-### Estadísticas recopiladas en todos las modalidades de juego:
+### Estadísticas recopiladas en todas las modalidades de juego:
 
 - Victorias
 - Derrotas
