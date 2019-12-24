@@ -17,7 +17,7 @@ Confiamos en nuestros increíbles voluntarios para dar pie a esta comunidad y el
 
 Todo lo que decidas enviarnos se quedará entre nosotros y nadie más. Guardaremos cualquier información confidencial que nos hayas enviado.
 
-Puedes escribir tu solicitud en un documento de texto y enviarlo por correo electrónico a [support@walrus.network](mailto:support@walrus.network) cuando te veas preparado. Preferimos el formato PDF sobre cualquier otro formato. Si tu solicitud capta nuestra atención nos aseguraremos de responder, aunque actualmente estamos sobresaturados de trabajo así que por favor perdónanos si no somos capaces de responder de inmediato.
+Puedes escribir tu solicitud en un documento de texto y enviarlo por correo electrónico a [jobs@walrus.network](mailto:jobs@walrus.network) cuando te veas preparado. Preferimos el formato PDF sobre cualquier otro formato. Si tu solicitud capta nuestra atención nos aseguraremos de responder, aunque actualmente estamos sobresaturados de trabajo así que por favor perdónanos si no somos capaces de responder de inmediato.
 
 Contacta con nosotros si tienes alguna pregunta. ¡Muchas gracias por tu confianza! Estamos esperando leer tu solicitud.
 
