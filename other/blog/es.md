@@ -4,7 +4,7 @@ Hoy nos complace explicar cómo integraremos un sistema de colas, partidas y _pa
 
 ### **Colas**
 
-Teniendo en cuenta las múltiples modalidades de juego disponibles (durante nuestra Beta, como UHC, _Arena_ y _Ares_), cualquier jugador podrá **hacer cola** para un **juego** dado. Si quieres jugar _Ares_ (por ejemplo), tendrás la capacidad de hacer cola para esta modalidad de juego y luego ser trasladado a una partida en ejecución (si aún queda espacio en cualquiera de los equipos) o una nueva partida una vez que haya un número suficiente de jugadores que estén en cola.
+Teniendo en cuenta las múltiples modalidades de juego disponibles durante nuestra Beta (como UHC, _Arena_ y _Ares_), cualquier jugador podrá **hacer cola** para un **juego** dado. Si quieres jugar _Ares_ (por ejemplo), tendrás la capacidad de hacer cola para esta modalidad de juego y luego ser trasladado a una partida en ejecución (si aún queda espacio en cualquiera de los equipos) o una nueva partida una vez que haya un número suficiente de jugadores que estén en cola.
 
 ### **Partidas**
 
@@ -12,7 +12,7 @@ Los jugadores de cada partida podrán votar entre tres mapas sugeridos, para ele
 
 ### **_Parties!_** 🥳
 
-Por último, nos complace anunciar que las _parties_ serán integradas en este sistema de colas. Los jugadores de una misma _party_ serán colocados en la mismo partida. Cualquier jugador podrá crear _parties_ con hasta un máximo cinco jugadores. El sistema de _parties_ se integrará en todas nuestras modalidades de juego, ya sea _Ares_, _Arena_ o UHC (los UHC en equipo podrán usar el sistema de _parties_ para los equipos, pero no servirá de nada para partidas UHC en solitario).
+Por último, nos complace anunciar que cualquier _party_ estará integrada en este sistema de colas. Los jugadores de una misma _party_ serán colocados en la mismo partida. Cualquier jugador podrá crear _parties_ con hasta un máximo cinco jugadores. El sistema de _parties_ se integrará en todas nuestras modalidades de juego, ya sea _Ares_, _Arena_ o UHC (los UHC en equipo podrán usar el sistema de _parties_ para los equipos, pero no servirá de nada para partidas UHC en solitario).
 
 En _Ares_, de los cinco jugadores en una _party_ (como mucho) tres serán emparejados en el mismo equipo. Si tienes una _party_ de cinco, el sistema hará todo lo posible para unir tres jugadores en el mismo equipo y dos en el equipo opuesto.
 
