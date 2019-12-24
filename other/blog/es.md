@@ -1,88 +1,25 @@
-¡Hoy anunciamos una lista de estadísticas que vamos a recopilar en nuestro servidor! A continuación detallamos cuales:
+Hola a todos,
 
-### Estadísticas recopiladas en todas las modalidades de juego:
+Hoy nos complace explicar cómo integraremos un sistema de colas, partidas y _parties_ en nuestro servidor.
 
-- Victorias
-- Derrotas
-- Ratio W/L (Victorias / Derrotas)
-- Bajas
-- Muertes
-- K/D (Bajas / Muertes)
-- Daño realizado
-- Daño recibido
-- Ratio Daño realizado/Daño recibido
-- Major racha (por modalidad de juego)
-- Comida consumida
-- Distancia recorrida
-- Mayor baja por distancia de TNT / proyectil
-- Bloques colocados/destruidos
-- Bajas realizadas con espada, proyectil, puño, TNT, yunque, poción y por _spleef_
-- Muertes por _PvP_/proyectil (y no por encuentros naturales, como caerse al vacío)
-- Duración de la partida
-- Número de partidas jugadas
-- Duración media de cada partida
-- Precisión de proyectiles
-- Bajas/muertes por _PvP_ y proyectil por hora
-- Modificaciones personalizadas de _hotbar_ por jugador
+### **Colas**
 
-### Estadísticas recopiladas en modalidades de juego _Ares_:
+Teniendo en cuenta las múltiples modalidades de juego disponibles (durante nuestra Beta, como UHC, _Arena_ y _Ares_), cualquier jugador podrá **hacer cola** para un **juego** dado. Si quieres jugar _Ares_ (por ejemplo), tendrás la capacidad de hacer cola para esta modalidad de juego y luego ser trasladado a una partida en ejecución (si aún queda espacio en cualquiera de los equipos) o una nueva partida una vez que haya un número suficiente de jugadores que estén en cola.
 
-- Autodestrucciones
-- Duración de tiempo en _observers_
-- Duración de tiempo jugado
-- Banderas: recogidas, capturadas y el tiempo sostenido de bandera más largo
-- Lanas: recogidas y capturadas
-- Primer _touch_ de lana
-- _Safeties_ de lana destruidas
-- _Cores_: rotos, filtrados y arreglados/parcheados
-- Monumentos rotos
-- Porcentaje total de cada monumento
-- Scoreboxes anotadas
-- Bajas en _Rage_
-- Muertes en _Rage_
-- La racha de bajas más larga en modalidades de juego que no sean _Rage_
-- La racha de bajas más larga en _Rage_
-- _Hill_ que más tiempo ha capturado un equipo
-- Bajas realizadas en una _hill_
-- Tiempo de partida más largo
-- Armaduras _crafteadas_
-- Mayor racha de victorias
-- Recuento de MVPs
-- Partidas jugadas
-- K/D por hora
-- K/D en _Rage_ por hora
-- Banderas/lanas/_cores_/monumentos por hora
-- Proporción de jugadores que juegan de atacante
-- Proporción de jugadores que juegan de defensor
-- Proporción de jugadores que ejercen un rol neutral
-- Porcentaje de MVPs
+### **Partidas**
 
-### Estadísticas recopiladas en UHC:
+Los jugadores de cada partida podrán votar entre tres mapas sugeridos, para elegir qué mapa se jugará a continuación. El sistema sugerirá estos tres mapas en función de una variedad de factores (¿qué modalidades de juego se acaban de jugar? ¿Hay un aumento o una disminución en el número de jugadores? Etc.). Una vez se haya elegido mapa, los jugadores serán trasladados a una nueva partida.
 
-- Recuento de primeras bajas en partidas
-- Duración del juego
-- Partidas jugadas
-- Bajas/muertes/daño realizado por hora
+### **_Parties!_** 🥳
 
-### Estadísticas recopiladas en la modalidad de juego de _Arena_:
+Por último, nos complace anunciar que las _parties_ serán integradas en este sistema de colas. Los jugadores de una misma _party_ serán colocados en la mismo partida. Cualquier jugador podrá crear _parties_ con hasta un máximo cinco jugadores. El sistema de _parties_ se integrará en todas nuestras modalidades de juego, ya sea _Ares_, _Arena_ o UHC (los UHC en equipo podrán usar el sistema de _parties_ para los equipos, pero no servirá de nada para partidas UHC en solitario).
 
-- Racha de victorias
-- ELO
-- Partidas jugadas
-- Duración de la partida
-- Bajas/muertes/daño realizado por hora
-- Duración media de cada partida
-- Precisión de disparo (para kits con flechas/proyectiles)
-- Combo más largo
-- Curación restante
-- Diferencia de vida promedio al final del partido
+En _Ares_, de los cinco jugadores en una _party_ (como mucho) tres serán emparejados en el mismo equipo. Si tienes una _party_ de cinco, el sistema hará todo lo posible para unir tres jugadores en el mismo equipo y dos en el equipo opuesto.
 
-Ten en cuenta que nuestro objetivo es implementar tantas estadísticas como sea posible durante el período Beta. Algunas estadísticas serán más difíciles de implementar que otras, y nos gustaría ver todo esto en un momento dado en el futuro.
+En _Arena_, los jugadores de la misma _party_ podrán jugar contra jugadores de otras _parties_ en equipo, ya sea en _Ranked_ o no..
 
-También anunciamos que tendremos una API pública que cualquier usuario podrá utilizar. ¡Más información sobre esto en el futuro!
+En general, te recomendamos estar atento a los próximos días sobre cómo los beneficios premium puedan afectar de manera positiva a todo lo mencionado anteriormente.
 
-¿Nos hemos perdido algo? Contacta con nosotros en [nuestro servidor de Discord](https://discord.gg/eySJYEb) y valoraremos si puede ser factible o no.
-
-¡Muchas gracias y un saludo!
+Eso es todo por hoy. ¡Feliz Nochebuena!
 
 Walrus

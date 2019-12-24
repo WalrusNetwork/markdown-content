@@ -1,88 +1,26 @@
-Today we're announcing a list of player statistics to be featured on our game servers! You may find an exhaustive list below.
+Hello everyone,
 
-### Statistics tracked under all gamemodes:
+Today we're excited to explain how we'll be integrating queues, matches, as well as a party system, on our game servers!
 
-- Game Wins
-- Game Losses
-- W/L ratio
-- Kills
-- Deaths
-- K/D ratio
-- Damage done
-- Damage taken
-- Damage ratio
-- Longest killstreak (per gamemode)
-- Food eaten
-- Distance travelled
-- Farthest projectile/TNT kill
-- Blocks placed/destroyed
-- Kills by sword, projectile, fist, TNT, anvil, potion & spleef
-- Deaths by melee/projectile
-- Play duration
-- Number of games played
-- Average game duration
-- Projectile accuracy
-- Kills/deaths by melee & projectile per hour
-- Custom hotbar loadouts per player
+### **Queues**
 
-### Statistics tracked under Ares:
+Imagine multiple games available on Walrus, starting during our Beta with UHC, Arena, and our selection of Ares gamemodes.
+Players will have the ability to **queue** for a given **match**. If you want to play, say Ares, you will have the ability to queue for this game-type, and then be ported to either a running match, if there are still spots left in either team, or a new match once a sufficient number of players are queued for the match.
 
-- Self-destructs
-- Observe duration
-- Play duration
-- Flags: picked up, captured & longest hold duration
-- Wools: picked up & captured
-- First wool touches
-- Wool safeties destroyed
-- Cores: broken, leaked & patched
-- Monuments broken
-- Total monument percentage
-- Scoreboxes scored
-- Rage kills
-- Rage deaths
-- Longest non-rage killstreak
-- Longest rage killstreak
-- Longest hill stand duration
-- Kills while on a hill
-- Longest match time
-- Armors crafted
-- Largest win streak
-- MVP count
-- Games played
-- Kills/deaths per hour
-- Rage kills/deaths per hour
-- Flags/wools/cores/monuments per hour
-- Attacker proportion
-- Defender proportion
-- Neutral proportion
-- MVP percentage
+### **Matches**
 
-### Statistics tracked under UHC:
+Players in the match will be able to vote among three suggested maps, to pick out which map will be played next. The system will suggest these three maps based on a variety of factors (what gamemodes were just played? Is there an increase or decrease in the number of players? etc.). Once a map has been chosen, the players will be ported to their new match.
 
-- First blood count
-- Play duration
-- Games played
-- Kills/deaths/damage per hour
+### **Parties!** 🥳
 
-### Statistics tracked under Arena:
+Lastly, we're excited to announce that parties will be integrated into this queue system! Players from the same party will be placed in the same match. All regular players will be able to start parties of at most five players. The party system will be integrated across our games, whether Ares, Arena or UHC (team UHCs might use the party system for teams, although parties would not be taken into account for solo UHCs).
 
-- Winstreaks
-- ELO
-- Games played
-- Play duration
-- Kills/deaths/damage per hour
-- Average match duration
-- Shot accuracy (for projectile kits)
-- Longest combo
-- Healing remaining
-- Average health difference at end of match
+On Ares, of the five players in a party, at most three will get matched onto the same team. If you have a party of five, the system will do its best to match three players on the same team, and two on the opposite team.
 
-Please note that we aim to have as many of these statistics implemented during the Beta period as possible. Some statistics will be more difficult to implement than others, and we would like to see all of these tracked at a given point in time down the line.
+On Arena, players of the same party will have the ability to play against players of other parties in team-fights, whether Ranked or Unranked.
 
-We're also excited to announce that we'll have a public API that users will be able to request to! More on this later.
+All in all, keep an eye out over these coming days on how premium perks will come into play in this all...
 
-Did we miss anything major? Try us in [our public Discord](https://discord.gg/eySJYEb) and we'll let you know if we think it's feasible.
-
-Thanks and cheers!
+That's all for today. Merry Christmas Eve!
 
 Walrus
