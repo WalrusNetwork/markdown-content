@@ -1,25 +1,39 @@
 Hola a todos,
 
-Hoy nos complace explicar cómo integraremos un sistema de colas, partidas y _parties_ en nuestro servidor.
+¡Hoy anunciamos algunos artículos que van a ser publicados en nuestra tienda el 1 de enero! El precio de éstos será público en el momento en el que la tienda esté disponible.
 
-### **Colas**
+El rango _Sponsor_ es una forma de apoyarnos durante la fase beta mientras continuamos trabajando para levantar el negocio. Hay que decir que no todas las características a continuación estarán disponibles en el momento en el que abramos el servidor (que volvemos a recordar, estará en fase **beta**): sin embargo, haremos todo lo posible para implementar la mayor cantidad posible de las mismas. En cualquier caso, se acabarán implementando de una forma u otra, así que no hay de qué preocuparse.
 
-Teniendo en cuenta las múltiples modalidades de juego disponibles durante nuestra Beta (como UHC, _Arena_ y _Ares_), cualquier jugador podrá **hacer cola** para un **juego** dado. Si quieres jugar _Ares_ (por ejemplo), tendrás la capacidad de hacer cola para esta modalidad de juego y luego ser trasladado a una partida en ejecución (si aún queda espacio en cualquiera de los equipos) o una nueva partida una vez que haya un número suficiente de jugadores que estén en cola.
+### **Rango _Sponsor_**
 
-### **Partidas**
+- Estrella de oro _in-game_
+- _Slots_ premium reservados en partidas en ejecución y colas de partidas
+- Beneficios en nuestro servidor Discord:
+     - Rango _sponsor_ independ
+  - Permisos para usar el _Bot_ de música
+       - Canal de sponsor privado
+       - Canales temporales para ti y tus amigos
+- Tamaño máximo de _parties_ de 10 (el valor predeterminado es 5): con un máximo de 5 jugadores (el valor predeterminado es 3) en el mismo equipo
+- Cosméticos y personalizaciones:
+     - Ares y Arena: 3 _hotbars_ personalizadas por modalidad de juego (es decir, Ares y Arena)
+     - Fuegos artificiales personalizados al completar un objetivo (se puede activar y desactivar)
+     - Varios cosméticos para el lobby
+- Posibilidad de volar en el lobby
+- Multiplicador de experiencia x1.5
+- UHC: únete a la lista blanca antes que nadie y durante la cuenta regresiva de la partida
+- 3 votos de mapas gratis \*
+- ¡15% de descuento en todos los demás artículos de nuestra tienda!
 
-Los jugadores de cada partida podrán votar entre tres mapas sugeridos, para elegir qué mapa se jugará a continuación. El sistema sugerirá estos tres mapas en función de una variedad de factores (¿qué modalidades de juego se acaban de jugar? ¿Hay un aumento o una disminución en el número de jugadores? Etc.). Una vez se haya elegido mapa, los jugadores serán trasladados a una nueva partida.
+### **Artículos de pago único**
 
-### **_Parties!_** 🥳
+Presentamos un sistema de votos para cambiar de mapa y monedas UHC. También, como algunas características mencionadas aquí arriba, esperamos tenerlos disponibles en algún momento durante las primeras etapas de nuestra beta, ¡así que estate atento a cualquier novedad!
 
-Por último, nos complace anunciar que cualquier _party_ estará integrada en este sistema de colas. Los jugadores de una misma _party_ serán colocados en la mismo partida. Cualquier jugador podrá crear _parties_ con hasta un máximo cinco jugadores. El sistema de _parties_ se integrará en todas nuestras modalidades de juego, ya sea _Ares_, _Arena_ o UHC (los UHC en equipo podrán usar el sistema de _parties_ para los equipos, pero no servirá de nada para partidas UHC en solitario).
+- **Votos para mapas** (MV de aquí en adelante): un MV te permite definir 1 de los 3 mapas que se votan para determinar el siguiente mapa que se jugará. De esos 3 mapas presentados por el sistema para la votación, puedes cambiar 1 a cambio de un vale. Todos votan entre los 3, y se juega el mapa con el mayor número de votos.
 
-En _Ares_, de los cinco jugadores en una _party_ (como mucho) tres serán emparejados en el mismo equipo. Si tienes una _party_ de cinco, el sistema hará todo lo posible para unir tres jugadores en el mismo equipo y dos en el equipo opuesto.
+- **Las monedas UHC** te dan la capacidad de organizar tu propia partida UHC personalizado, utilizando nuestro _plugin_ y con los diversos escenarios que estén disponibles en ese momento. También te serán de ayuda los múltiples comandos disponibles para _hosts_ que ayudan a ejecutar la partida como te plazca. Estas partidas no serán partidas de Reddit ya que el UBL no será aplicado durante esta partidas: ¡considéralos como un UHC amistoso en el que jugar con diez o quince de tus amigos!
 
-En _Arena_, los jugadores de la misma _party_ podrán jugar contra jugadores de otras _parties_ en equipo, ya sea en _Ranked_ o no..
+Dicho esto, ¡tenemos más funciones premium que estamos buscando implementar! Nuestros desarrolladores están repletos de trabajo en este momento (y también estarán ocupados con nuestra beta). De todas formas, intentaremos comunicar cualquier cambio o novedad, como siempre.
 
-En general, te recomendamos estar atento a los próximos días sobre cómo los beneficios premium puedan afectar de manera positiva a todo lo mencionado anteriormente.
-
-Eso es todo por hoy. ¡Feliz Nochebuena!
+¡Os deseamos una feliz Navidad y felices fiestas!
 
 Walrus

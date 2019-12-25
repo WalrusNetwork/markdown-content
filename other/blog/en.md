@@ -1,26 +1,39 @@
 Hello everyone,
 
-Today we're excited to explain how we'll be integrating queues, matches, as well as a party system, on our game servers!
+Today we're announcing a few items to go live in our Shop on January 1st! You can view the pricing for these as soon as they go up in the Shop.
 
-### **Queues**
+The Sponsor rank is your way of supporting us during our early Beta phase while we prop up the business on its two feet. It should be said that not all of the features below may be available to our Sponsor right upon the Beta opening date: however, we will do our best to implement as many of these as possible. Regardless, we want to see these features available to our Sponsors as soon as possible!
 
-Imagine multiple games available on Walrus, starting during our Beta with UHC, Arena, and our selection of Ares gamemodes.
-Players will have the ability to **queue** for a given **match**. If you want to play, say Ares, you will have the ability to queue for this game-type, and then be ported to either a running match, if there are still spots left in either team, or a new match once a sufficient number of players are queued for the match.
+### **Sponsor Rank:**
 
-### **Matches**
+- Gold Sponsor star in-game
+- Reserved premium slots in running matches and match queues
+- Perks on our Discord server:
+  - Standalone Sponsor rank
+  - Musicbot permissions
+  - Private Sponsor channel
+  - Create a temporary voice channel for you and your friends
+- Max party size of 10 (default is 5): at most 5 players (default is 3) on same team for premium
+- Cosmetics & Customizations:
+  - Ares & Arena: 3 Hotbar loadouts per game-type (i.e. Ares and Arena)
+  - Custom firework per player on objective completion (may be toggled)
+  - Various lobby cosmetics
+- Flying in lobby
+- x1.5 XP reward
+- UHC: join the whitelist early, and during the match countdown
+- 3 free Map Votes\*
+- 15% off all other items in our shop!
 
-Players in the match will be able to vote among three suggested maps, to pick out which map will be played next. The system will suggest these three maps based on a variety of factors (what gamemodes were just played? Is there an increase or decrease in the number of players? etc.). Once a map has been chosen, the players will be ported to their new match.
+### **One-off purchaseables:**
 
-### **Parties!** 🥳
+We're introducing Map Votes and UHC Coins. We're also hoping to have these available at some point in time during the earlier stages of our Beta — so keep an eye out!
 
-Lastly, we're excited to announce that parties will be integrated into this queue system! Players from the same party will be placed in the same match. All regular players will be able to start parties of at most five players. The party system will be integrated across our games, whether Ares, Arena or UHC (team UHCs might use the party system for teams, although parties would not be taken into account for solo UHCs).
+- **Map Votes** (MV): an MV lets you define 1 of the 3 maps that are voted on in order to determine the next map to be played. Of those 3 maps put forward by the system for the vote, you get to submit 1. Everyone votes between the 3, and the map with the highest number of votes is played.
 
-On Ares, of the five players in a party, at most three will get matched onto the same team. If you have a party of five, the system will do its best to match three players on the same team, and two on the opposite team.
+- **UHC Coins** give you the ability to host your own custom-UHC match, using our plugin, the various scenarios available to you (more on scenarios soon!), and the multiple commands available to hosts helping them run their match as they so please. These matches won't be Reddit UHC games as the UBL will not be enforced during these matches — consider them like a friendly UHC that you can throw up and play with ten or fifteen of your friends!
 
-On Arena, players of the same party will have the ability to play against players of other parties in team-fights, whether Ranked or Unranked.
+With that being said, we have more premium features in the wraps that we're looking to implement! Our devs are jam-packed at the moment (and will be busy as ever with our Beta, as expected), but we'll keep you updated.
 
-All in all, keep an eye out over these coming days on how premium perks will come into play in this all...
-
-That's all for today. Merry Christmas Eve!
+Wishing everyone a merry Christmas and happy holiday!
 
 Walrus
