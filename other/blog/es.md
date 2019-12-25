@@ -9,10 +9,10 @@ El rango _Sponsor_ es una forma de apoyarnos durante la fase beta mientras conti
 - Estrella de oro _in-game_
 - _Slots_ premium reservados en partidas en ejecución y colas de partidas
 - Beneficios en nuestro servidor Discord:
-  - Rango _sponsor_ independ
-  - Permisos para usar el _Bot_ de música
-  - Canal de sponsor privado
-  - Canales temporales para ti y tus amigos
+  - Rango _sponsor_
+  - Permisos para usar el _bot_ de música
+  - Chat de texto para _sponsors_ privado
+  - Canales de voz temporales para ti y tus amigos
 - Tamaño máximo de _parties_ de 10 (el valor predeterminado es 5): con un máximo de 5 jugadores (el valor predeterminado es 3) en el mismo equipo
 - Cosméticos y personalizaciones:
   - Ares y Arena: 3 _hotbars_ personalizadas por modalidad de juego (es decir, Ares y Arena)
