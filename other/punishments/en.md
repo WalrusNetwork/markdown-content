@@ -89,9 +89,9 @@ Below is a breakdown of the **Chat** categories, and how many levels they will b
 
 In the event that a player is found evading either their chat or their game punishment:
 
-- The main account is bumped up **ONE** tier on the corresponding punishment track (chat or game).
+- The main account is bumped up **ONE** level on the corresponding punishment track (chat or game).
 
-- The alt account is set to the identical punishment level as the main account, after the main account has been bumped up one tier.
+- The alt account is set to the identical punishment level as the main account, after the main account has been bumped up one level.
 
 **Example**: Joe is caught fly hacking and receives a 3 month ban.  Joe hops on his account ‘Susan’ to evade the ban, and is caught.  Both accounts Joe and Susan are set to a 6 month ban, as 6 months is the next logical level on the Game track.
 
@@ -100,7 +100,7 @@ In the event that a player is found evading either their chat or their game puni
 
 If you succeed (somehow) in getting yourself on the ‘highest’ level of a track, your next level is simply **double** the length of your current level. For instance, if you were last muted for 6 months and you _again_ say something to get yourself punished (at that point, what are you doing buddy?), you would 6 months x 2 = 1 year mute. The next would be 2 years, then 4 years, and so on…
 
-If the system finds that you are accumulating many punishments or warns **within a short duration of time**, the punishment system will place you on a higher level of the track, quicker. This is because we consider that you could not possibly be racking up this many punishments or warns so quickly without malintent in mind.
+If the system finds that you are accumulating many punishments or warns **within a short duration of time**, the punishment system will place you on a higher level of the track, quicker. This is because we consider that you could not possibly be racking up this many punishments or warns so quickly without malicious intent in mind.
 
 **One more thing: the system rewards you for good conduct!** After a certain period of time (we won’t say when), punishments decay and your level sinks back down on the track. Some extreme punishments may not decay however (C4 punishments).
 
