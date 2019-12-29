@@ -1,39 +1,60 @@
-Ayer dimos un vistazo a los mapas que tendremos disponibles a la hora de pedir un servidor privado cuando estén disponibles en la beta, por lo que hoy queremos explicar nuestro proceso de selección a la hora de escoger mapas para nuestros **servidores públicos**. Si te perdiste la publicación de ayer, puedes consultar la lista de mapas [aquí](https://gist.github.com/mitchts/6d7054b14eeef8c6ae7e1bd04dcc4ec1).
+¡Hoy hablamos de nuestra visión con Arena y UHC! Estas modalidades de juego no estarán listas justo en el momento del lanzamiento de nuestra beta, pero, sin embargo, nos complace compartir lo que hemos ideado y recopilar comentarios [en nuestro Discord](https://discord.gg/eySJYEb).
 
-### **Calidad sobre cantidad**
+### **Kits de Arena**
 
-Aquí en Walrus, nuestro enfoque principal es ayudar a hacer crecer la escena competitiva de Minecraft, por lo que tiene sentido que nuestro enfoque principal sea en mapas diseñados específicamente para ser jugados competitivamente. En lugar de dividir el enfoque de nuestro equipo de diseñadores de mapas entre dos características demográficas y estilos de juego muy diferentes, nos orientaremos hacia mapas que fomenten la competitividad, al mismo tiempo que promocionamos el crecimiento de habilidades de los jugadores más nuevos, lo que nos permite proporcionar un conjunto de mapas de mayor calidad.
+Para la versión beta, queremos empezar ofreciendo una buena selección de kits populares en la comunidad de Arena que la gente asocia normalmente a esta modalidad. Nuestra intención es pulirlos para luego construir a partir de ahí, agregando kits más complejos y originales. Un kit inusual que nos gustaría incluir al comienzo de Arena es el kit de cañones. A continuación encontrarás una lista de nuestros kits en un inicio:
 
-Para apoyar este enfoque en la competitividad, nuestro objetivo es proporcionar un grupo más pequeño de mapas de mayor calidad en lugar de un grupo más grande de mapas subdesarrollados. Sin embargo, un grupo más pequeño no significa una falta de variedad. Intentaremos ofrecer una amplia selección de mapas con diferentes enfoques de juego y estilos, pero simplemente seremos selectivos en los mapas que proporcionamos. Queremos acompañar a los creadores de mapas a lo largo de su proceso creativo para garantizar un producto final en condiciones.
+- [Ares (‘OCN’)](https://imgur.com/a/918MyhY)
+- [No Debuff](https://imgur.com/a/4xun1TD)
+- Debuff
+- Archer
+- [Build UHC](https://imgur.com/a/48ckmsY)
+- [Sumo](https://imgur.com/a/WQLHh9C)
+- Spleef
+- Kit de cañones
 
-### **Estandarización**
+Los kits anteriores que no contienen ningún enlace asociado aún necesitan trabajo (cañones) o utilizarán los kits estándar que usan otros servidores de Arena (Minemen). La estructura del kit de cañones y sus mapas aún no se han concluido, y los kits que terminen formando parte de la serie _ranked_ de la lista anterior se determinarán más cerca del lanzamiento de Arena. Todos los kits clasificados también aparecerán en _unranked_.
 
-Para que Walrus mantenga un conjunto de mapas de alta calidad, se están estandarizando muchos puntos en común entre los mapas de una manera que tenga sentido tanto para los jugadores como para la jugabilidad del mapa. La ausencia de estándares en los mapas hace que haya un montón de pequeñas implementaciones que son específicas de cada mapa, algo que queremos evitar. Sin la estandarización, las cosas se complican rápidamente para los jugadores, los creadores de mapas y nuestro equipo de diseñadores de niveles. Algunos serán menos notables que otros, pero a continuación hay algunos grandes.
+¡Hemos pensado algunas ideas nuevas e interesantes para darle vida a los kits y al Arena en general! Estos nuevos kits potencialmente harán uso de un componente objetivo, y el terreno podría desempeñar un papel mucho más importante en las partidas (piensa en cómo podría ser un kit A/D). También hemos creado kits que podrían mejorar habilidades específicas que son específicas de otros juegos, como kits de puente o cañones. Intentaremos invertir más tiempo en estos una vez que nuestros kits básicos anteriores se encuentren en buen estado, ya que constituyen los cimientos que todo jugador de Arena conoce y esmera.
 
-#### **Artículos**
+### **Estadísticas post-partida**
 
-Los kits de spawn, particularmente en modalidades de juego _Conquest_ se han estandarizado en el diseño y los materiales ofrecidos. Esto no solo establecerá una expectativa de lo que recibirás por mapa, donde anteriormente era muy diferente en algunos casos, sino que también nos permite prepararnos mejor para diseños de kits personalizados en el futuro.
+Tener una visión general de cómo te ha ido en tu partida está muy bien para ayudar a cualquier jugador a mejorar. Dependiendo de la idoneidad del kit que se acaba de jugar, esta descripción general puede incluir las siguientes estadísticas visibles para un jugador:
 
-Además, por cada muerte, cada jugador siempre recibirá 1 manzana dorada, ⅓ de las flechas disponibles en el kit de generación (con un mínimo de 12 y máximo de 24) y ¼ de los bloques de construcción en el kit de generación (con un máximo de 32 por tipo de bloque). Saber qué esperar cuando te matan es increíblemente importante y hacer que cada mapa diferente entregue sus propios elementos en cantidades arbitrarias simplemente no tiene sentido para nosotros.
+- La salud, el hambre y la duración de los efectos de poción activa restantes
+- El número de elementos curativos (como pociones o manzanas de oro) que quedan en el inventario
+- El número de golpes exitosos que cayeron sobre el oponente
+- El mayor número de golpes consecutivos realizado
+- La distancia más larga realizada por un tiro de arco
+- La proporción de tiros de arco que han caído en tu adversario versus los que no (precisión del arco)
+- La proporción de curación disponible versus curación recibida (precisión de la poción)
 
-#### **Capturar la lana**
+### **UHCs de Reddit**
 
-Las salas de las lanas ahora tendrán stacks de 64 manzanas doradas, una mejora de armadura (cuando sea apropiado), y una mejora de arco. Las salas también tendrán cofres de ender los cuales contienen la lana de color, en lugar de un cofre normal. Cada jugador empezará con 5 lanas en su cofre, y se dará 3 por cada muerte que consiga en la partida. Esto limita la cantidad de lana disponible a los jugadores y les obliga a poner safety de lana en lugar de ponerlas por todos sitios como si no hubiera un mañana.
+¡Nos complace anunciar que alojaremos UHC compatibles con Reddit! Si bien no todos nuestros UHC serán Reddit, la mayoría lo serán. También aplicaremos la UBL para cualquier partida Reddit. El conjunto de reglas de Reddit se puede encontrar [aquí](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines).
 
-### **Mapas publicos**
+### **Escenarios UHC planificados**
 
-Para nuestro servidor público, queremos cerrar la brecha entre lo que se considera comúnmente como juego "publico" y "competitivo". Por esta razón vamos a proveer de una selección de mapas compuesto por mapas de torneos ligeramente modificados con mapas clasicos y favoritos de la comunidad que inspiran una competencia amistosa entre jugadores.
+En cuanto a UHC, tenemos algunos escenarios en mente que queremos ver en nuestro servidor. La siguiente lista no es exhaustiva, y todavía estamos en el proceso de examinar nuestra lista de escenarios.
+Las descripciones de los escenarios se obtuvieron en su mayor parte de la [guía de host UHC de Reddit](https://www.reddit.com/r/UHCHosts/wiki/scenario_list):
 
-Para el periodo Beta, los servidores públicos van a tener Capturar la Lana (CTW), Captura la Bandera (CTF), Destuir el monumento (DTM), Rey de la Colina (KotH) y Batalla por Equipos (TDM) listos para jugar. Rey de la Bandera (KotF) estará disponible poco tiempo después. Dominación (5CP) estará disponible sólo en los servidores privados. La lista completa de mapas estará disponible el 1 de enero cuando el periodo Beta comience.
+- _Cutclean_: "Los minerales y los _drops_ de animales se funden automáticamente, no se necesitan hornos".
+- _Timber_: "Romper un tronco de un árbol hará que todo el árbol se caiga"
+- _Hastey Boys_: "Todos minan más rápido"
+- _Golden Retriever_: "Matar a un jugador deja caer una cabeza de oro".
+- _Bleeding Sweets_: "Cuando un jugador muere, suelta 1 diamante, 5 de oro, 16 flechas y 1 hilo".
+- _Timebomb_: “Después de matar a un jugador, su botín caerá en un cofre. Una cantidad elegida de segundos después (generalmente 30 segundos), el cofre explotará".
+- _Sky High_: "Después de un cierto período de tiempo, recibirás daño cada 30 segundos si estás por debajo de y: 100".
+- _Moles_: “Se elige una persona en cada equipo para ser el topo. Los Moles son un equipo y pueden comunicarse entre sí, tratando de eliminar a los otros jugadores. Los jugadores normales intentan averiguar quién es el topo en su equipo y los matan ”.
 
-#### **Cambios en Destroy**
+Seguiremos buscando implementar equipos aleatorios y una opción de duelos/pvp en el lobby.
 
-Los mapas de Destroy han sido tema de discusión dentro y fuera de nuestro equipo. Hemos decidido, por ahora, que los cores van a ser sustituidos por monumentos de igual dificultad o superior de atacar y que sean imposibles de hacer túneles por dentro. Notamos que destruir el core no está actualmente en el mejor estado para ser jugado, y nos gustaría tomarnos un tiempo para mejorar el modo de juego antes de lanzarlo a nuestros servidores.
+### **Conclusiones**
 
-### **Propuestas**
+Estamos entusiasmados con lo que tenemos reservado para vosotros con respecto a UHC y Arena. Si bien estos juegos no estarán disponibles a partir del 1, nuestros desarrolladores buscarán potenciarlos una vez que _Ares_ esté en condiciones y estable. Ya se ha realizado progreso, y estamos buscando ajustar y pulir estas modalidades de juego antes de lanzarlas.
 
-Nuestra documentación XML estará disponible al público durante el periodo Beta y aceptaremos propuestas de mapas de la comunidad inmediatamente. En el sitio web de la documentación estarán disponibles todas las facetas del juego y cómo usarlas, guías técnicas y plantillas. Las propuestas de mapas son muy importante para nosotros, y mientras agradecemos las nuevas propuestas de mapas, si hay mapas de otros autores que te gustaría ver en Walrus, ¡háganoslo saber!
+¡Nos interesará ver qué jugarán más nuestros jugadores, si Ares, UHC o Arena! Por mucho que nos guste planear todo a la perfección, también nos estamos tomando esto como una experiencia de aprendizaje, y nos entusiasma ver lo que pueda salir de toda esta planificación previa.
 
-Gracias,
+¡Feliz sábado y nos vemos mañana!
 
 Walrus
