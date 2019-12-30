@@ -85,4 +85,6 @@ Laid out below are the consequences related to the use of any tools which give a
 
 We've provided a friendly infographic for your convenience, summarizing the consequences associated with stand-alone and combined usage of unfair advantages:
 
-![hack_types.png](https://drive.google.com/uc?export=view&id=1pnVmtZgvISiqiqk2Sm-C8CPv9QAkZN5u)
+<div class="col-lg-12">
+  <img src="https://drive.google.com/uc?export=view&id=1pnVmtZgvISiqiqk2Sm-C8CPv9QAkZN5u" alt="" style="max-width: 100%" />
+</div>
