@@ -98,7 +98,7 @@ In the event that a player is found evading either their chat or their game puni
 
 ### **Special Cases and Notes**
 
-If you succeed (somehow) in getting yourself on the ‘highest’ level of a track, your next level is simply **double** the length of your current level. For instance, if you were last muted for 6 months and you _again_ say something to get yourself punished (at that point, what are you doing buddy?), you would 6 months x 2 = 1 year mute. The next would be 2 years, then 4 years, and so on…
+If you succeed (somehow) in getting yourself on the ‘highest’ level of a track, your next level is simply **double** the length of your current level. For instance, if you were last muted for 6 months and you _again_ say something to get yourself punished (at that point, what are you doing buddy?), you would get a 6 months x 2 = 1 year mute. The next would be 2 years, then 4 years, and so on…
 
 If the system finds that you are accumulating many punishments or warns **within a short duration of time**, the punishment system will place you on a higher level of the track, quicker. This is because we consider that you could not possibly be racking up this many punishments or warns so quickly without malicious intent in mind.
 
