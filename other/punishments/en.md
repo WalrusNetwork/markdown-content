@@ -20,9 +20,9 @@ We’ve trained our moderators to recognize 1. The type of infraction (was it ch
 
 In addition, any infraction that is typical of a Category 1 (C1) or Category 2 (C2) punishment on either track will receive a warn if you have no previous infractions or warns for the specific rule that you just broke.  For example: you just spammed multiple messages for the first time ever (spam is illegal). If the mod thinks this was C1 or C2 worthy, they will warn you for spamming, instead of punishing, because you might have not known about the rule. The mod gave you the benefit of the doubt: now, you know better than to spam. The next time you do it, a mod will punish you for it because you already learned about the rule and give you a C1 or C2.
 
-### **Game Track: Levels**
+### **Game ('Ban') Track: Levels**
 
-Below is the extensive list of levels on the **Game** track. These represent the duration of the **ban**:
+Below is the list of levels on the **Game** track. These represent the duration of the **ban**:
 
 1. Kick
 2. 1 day ban
@@ -34,7 +34,7 @@ Below is the extensive list of levels on the **Game** track. These represent the
 8. 6 month ban
 9. 1 year ban (combat cheats and Category 4 infractions start here)
 
-### **Chat Track: Levels**
+### **Chat ('Mute') Track: Levels**
 
 Below is the list of levels on the **Chat** track. These represent the duration of the **mute**:
 
