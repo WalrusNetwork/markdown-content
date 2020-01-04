@@ -82,7 +82,7 @@ Below is a breakdown of the **Chat** categories, and how many levels they will b
 
 - C4 is for extreme harassment, threatening and violence. A C3 will put you straight at the 3 month mute level. You are not required to have been previously warned or punished for the rule you broke before receiving a C4.
 
-  - `Note:`A Senior Mod may choose to extend the duration of a C4 mute after is has been dealt, or change the mute to a ban (extreme aggression and harassment fall under the C4 category).
+  - `Note:`A Senior Mod may choose to extend the duration of a C4 mute after it has been dealt, or change the mute to a ban (extreme aggression and harassment fall under the C4 category).
 
 
 ### **Ban Evasion**
