@@ -2,7 +2,7 @@
 
 _Última actualización: 15 de octubre de 2019_
 
-Esta Política de cookies explica cómo Walrus LLC ("Empresa", "nosotros" y "nuestro") utiliza cookies y tecnologías similares para reconocerte al visitar nuestro sitio web en [https://walrus.network/](https://walrus.network/), ("sitio web"). Ésta explica cuáles son estas tecnologías y por qué las usamos, así como tus derechos para controlar nuestro uso de ellas.
+Esta Política de cookies explica cómo Walrus LLC ("Empresa", "nosotros" y "nuestro") utiliza cookies y tecnologías similares para reconocerte al visitar nuestro sitio web en [https://walrus.gg/](/), ("sitio web"). Ésta explica cuáles son estas tecnologías y por qué las usamos, así como tus derechos para controlar nuestro uso de ellas.
 
 En algunos casos, podemos usar cookies para recopilar información personal, que se convierte en información personal si la combinamos con otra información.
 

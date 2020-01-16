@@ -2,7 +2,7 @@
 
 *Last updated: October 15, 2019*
 
-This Cookie Policy explains how Walrus LLC ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our website at [https://walrus.network/](https://walrus.network/), ("Site"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how Walrus LLC ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our website at [https://walrus.gg/](/), ("Site"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 In some cases, we may use cookies to collect personal information, or that becomes personal information if we combine it with other information.
 
