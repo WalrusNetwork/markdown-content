@@ -38,7 +38,7 @@ The following requirements are needed for all of the following development posit
 - Able to work with and around a team of developers with varying skill levels across multiple time zones
 - An understanding of Version Control Systems (VCS), such as Git, and an understanding of good versioning practices
 - A basic understanding of Github and Gitlab
-- A basic understanding in general continues integration (CI) strategies and best practices
+- A basic understanding in general continuous integration (CI) strategies and best practices
 
 ### **System Administrator**
 
@@ -63,7 +63,7 @@ Description:
 
 Qualifications:
 
-- Experience in Ruby and Ruby on Rails
+- Knowledge of Typescript and/or Javascript
 - An understanding of functional design patterns
 - Experience with creating and using GraphQL services
 - Experience with service based workflows
