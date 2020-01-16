@@ -3,7 +3,7 @@
 
 1. Maintain a respectful and friendly behavior across our services.  Toxicity will be punished: nobody likes a downer.  Use common sense.  Anything inappropriate should be kept to private communication channels.
 
-2. Do not accuse other players of rule-breaking or using an unfair advantage.  Instead, use the [/report](https://walrus.network/guides/faqs/how-can-i-report-a-player) command.
+2. Do not accuse other players of rule-breaking or using an unfair advantage.  Instead, use the [/report](https://walrus.gg/guides/faqs/how-can-i-report-a-player) command.
 
 3. Follow staff instructions.  They are here to help and ensure players have an enjoyable experience on our services.
 
