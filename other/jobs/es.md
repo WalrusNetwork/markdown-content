@@ -62,7 +62,7 @@ Descripción:
 
 Requisitos:
 
-- Experiencia con Ruby y Ruby on Rails
+- Experiencia con Typescript y/o Javascript
 - Conocimiento y comprensión de patrones de diseño funcionales
 - Experiencia en la creación y uso de servicios GraphQL
 - Experiencia con flujos de trabajo basados en servicios (_workflows_)
