@@ -36,7 +36,7 @@ Same idea, click "Open" to upload the walrus_onesie.png that you've downloaded f
 
 <img src="https://drive.google.com/uc?export=view&id=1QfHSxPrkbL6QP5NNOD6JCRrUdgAdKeaD" alt="walrus_and_me.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-Make sure the walrus_onesie.png shows up as being below your skin, under the top-right "layers" corner of the Novaskin screen. This way, the walrus onesie will show up as being layered over your skin.
+Make sure the walrus_onesie.png template is below your skin's template, on the top-right "layers" corner of the Novaskin screen. This will ensure that your skin is a layer beneath the walrus onesie, which is what we want.
 
 ### **Step 6: Download your new skin and apply!**
 
