@@ -10,7 +10,7 @@ Aha so you've seen them around! Yes, you too may go about wearing the walrus one
 
 Download the image below by right-clicking and hitting "Save as...", then save it to somewhere on your computer:
 
-<img src="https://drive.google.com/uc?export=view&id=1rKMJKvHzXrW7nV9Mb4dLaZMlIUW5aMUf" alt="walrus_onesie.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://drive.google.com/uc?export=view&id=1rKMJKvHzXrW7nV9Mb4dLaZMlIUW5aMUf" alt="walrus_onesie.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%; image-rendering: pixelated;">
 
 ### **Step 2: Get your current skin, and open Novaskin**
 
@@ -22,7 +22,7 @@ Head over to [Novaskin](https://minecraft.novaskin.me/).
 
 If there are any skins currently loaded, delete them. Do so with any and all skins already on the skin avatar, until you have nothing left but the default black-grid skin:
 
-<img src="https://drive.google.com/uc?export=view&id=1BQFwooBKja_HB28hs1AdPnHwWXN2fQu_" alt="delete_layers.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://drive.google.com/uc?export=view&id=1BQFwooBKja_HB28hs1AdPnHwWXN2fQu_" alt="delete_layers.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%; image-rendering: pixelated;">
 
 ### **Step 4: Upload your skin**
 
