@@ -56,4 +56,4 @@ We care about data privacy and security. Please review our Privacy Policy: [http
 
 #### CONTACT US
 
-In order to resolve a complaint regarding the Site or to receive further information regarding the use of the Site, please email us at [support@walrus.network](mailto:support@walrus.network) or [legal@walrus.network](mailto:legal@walrus.network).
+In order to resolve a complaint regarding the Site or to receive further information regarding the use of the Site, please email us at [support@walrus.gg](mailto:support@walrus.gg) or [legal@walrus.gg](mailto:legal@walrus.gg).

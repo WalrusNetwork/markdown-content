@@ -2,11 +2,11 @@
 
 *Última actualización: 15 de octubre de 2019*
 
-Gracias por elegir ser parte de nuestra comunidad en Walrus LLC, que presta servicios como Walrus Network ("Walrus Network", "nosotros" o "nuestro"). Nos comprometemos a proteger tu información personal y tu derecho a la privacidad. Si tienes alguna duda, pregunta o inquietud sobre nuestra política o sobre nuestras prácticas con respecto a tu información personal, contáctanos enviando un correo electrónico a [legal@walrus.network](mailto: legal@walrus.network).
+Gracias por elegir ser parte de nuestra comunidad en Walrus LLC, que presta servicios como Walrus Network ("Walrus Network", "nosotros" o "nuestro"). Nos comprometemos a proteger tu información personal y tu derecho a la privacidad. Si tienes alguna duda, pregunta o inquietud sobre nuestra política o sobre nuestras prácticas con respecto a tu información personal, contáctanos enviando un correo electrónico a [legal@walrus.gg](mailto:legal@walrus.gg).
 
 Cuando visitas nuestro sitio web [https://walrus.gg/](/) y utilizas nuestros servicios, nos estás confiando tu información personal, y es por ello que nos tomamos muy en serio tu privacidad. Nuestro objetivo con esta política de privacidad es explicarte de la manera más clara posible qué información recopilamos, cómo la usamos y qué derechos tienes en relación con ella. Si hay algún término en esta política de privacidad con el que no estás de acuerdo, te instamos a dejar de consumir nuestros servicios y sitios web.
 
-Esta política de privacidad se aplica a toda la información recopilada a través de nuestro sitio web (como [https://walrus.network/](/)), y/o cualquier servicio relacionado como ventas, marketing o eventos (nos referimos a ellos colectivamente en este documento como "servicios").
+Esta política de privacidad se aplica a toda la información recopilada a través de nuestro sitio web (como [https://walrus.gg/](/)), y/o cualquier servicio relacionado como ventas, marketing o eventos (nos referimos a ellos colectivamente en este documento como "servicios").
 
 Te recomendamos leer esta política de privacidad detenidamente, ya que te ayudará a tomar decisiones razonadas sobre cómo compartir tu información personal con nosotros.
 
@@ -194,4 +194,4 @@ Podremos actualizar esta política de privacidad en el futuro. La versión actua
 
 ### 13. ¿CÓMO NOS PUEDES CONTACTAR ACERCA DE ESTA POLÍTICA?
 
-Si tienes preguntas o comentarios sobre esta política, puedes enviarnos un correo electrónico a [legal@walrus.network](mailto:legal@walrus.network) o contactar con un miembro del equipo legal a través de nuestro servidor de Discord.
+Si tienes preguntas o comentarios sobre esta política, puedes enviarnos un correo electrónico a [legal@walrus.gg](mailto:legal@walrus.gg) o contactar con un miembro del equipo legal a través de nuestro servidor de Discord.

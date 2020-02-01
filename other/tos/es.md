@@ -56,4 +56,4 @@ Nos preocupamos por la privacidad y seguridad de los datos de nuestros usuarios.
 
 #### CONTÁCTENOS
 
-Para resolver una queja relacionada con el sitio web o para recibir más información sobre el uso del mismo, envíenos un correo electrónico a [support@walrus.network](mailto:support@walrus.network) o [legal@walrus.network](mailto:legal@walrus.network).
+Para resolver una queja relacionada con el sitio web o para recibir más información sobre el uso del mismo, envíenos un correo electrónico a [support@walrus.gg](mailto:support@walrus.gg) o [legal@walrus.gg](mailto:legal@walrus.gg).

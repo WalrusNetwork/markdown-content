@@ -4,7 +4,7 @@
 
 There are two kinds of bugs in this world: bugs that aren’t too serious, and bugs that could cause us real harm if revealed to the public or if in the wrong hands.
 
-If you believe you’ve found a harmful, dangerous bug (be careful, some of them sting), please reach out to a staff member in private, or email us at [support@walrus.network](mailto:support@walrus.network).
+If you believe you’ve found a harmful, dangerous bug (be careful, some of them sting), please reach out to a staff member in private, or email us at [support@walrus.gg](mailto:support@walrus.gg).
 
 If the bug isn’t too nasty (some bugs are even cute – I’m a big ladybug person), then you’re welcome to document it on our Discord ticket support system:
 

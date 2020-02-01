@@ -44,4 +44,4 @@ La fecha en la parte superior indica cuándo se actualizó por última vez.
 
 ### ¿Dónde puedo obtener más información?
 
-Si tienes preguntas o comentarios sobre esta política, nos puedes enviar un correo electrónico a [legal@walrus.network](mailto:legal@walrus.network) o contactar con un miembro del equipo legal a través de nuestro servidor de Discord.
+Si tienes preguntas o comentarios sobre esta política, nos puedes enviar un correo electrónico a [legal@walrus.gg](mailto:legal@walrus.gg) o contactar con un miembro del equipo legal a través de nuestro servidor de Discord.

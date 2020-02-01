@@ -44,4 +44,4 @@ The date at the top of this Cookie Policy indicates when it was last updated.
 
 ### Where can I get more information?
 
-If you have questions or comments about this policy, you may email us at [legal@walrus.network](mailto:legal@walrus.network) or contact a member of the legal team through our Discord server.
+If you have questions or comments about this policy, you may email us at [legal@walrus.gg](mailto:legal@walrus.gg) or contact a member of the legal team through our Discord server.
