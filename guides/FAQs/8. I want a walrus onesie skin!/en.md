@@ -10,7 +10,9 @@ Aha so you've seen them around! Yes, you too may go about wearing the walrus one
 
 Download the image below by right-clicking and hitting "Save as...", then save it to somewhere on your computer:
 
-<img src="https://drive.google.com/uc?export=view&id=1rKMJKvHzXrW7nV9Mb4dLaZMlIUW5aMUf" alt="walrus_onesie.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%; image-rendering: pixelated;">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rKMJKvHzXrW7nV9Mb4dLaZMlIUW5aMUf" alt="walrus_onesie.png" style="image-rendering: pixelated;">
+</p>
 
 ### **Step 2: Get your current skin, and open Novaskin**
 
@@ -22,19 +24,25 @@ Head over to [Novaskin](https://minecraft.novaskin.me/).
 
 If there are any skins currently loaded, delete them. Do so with any and all skins already on the skin avatar, until you have nothing left but the default black-grid skin:
 
-<img src="https://drive.google.com/uc?export=view&id=1BQFwooBKja_HB28hs1AdPnHwWXN2fQu_" alt="delete_layers.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%; image-rendering: pixelated;">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1BQFwooBKja_HB28hs1AdPnHwWXN2fQu_" alt="delete_layers.png">
+</p>
 
 ### **Step 4: Upload your skin**
 
 To upload your skin, click the "Open" button on the top-left corner of the screen, and find your skin PNG which you've downloaded from the Minecraft website. You can also drag-and-drop your Minecraft skin PNG directly onto the Novaskin template to upload it.
 
-<img src="https://drive.google.com/uc?export=view&id=120807G1ayMFhhqhWQ97A_GdOFk3TN1dE" alt="upload_my_skin.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=120807G1ayMFhhqhWQ97A_GdOFk3TN1dE" alt="upload_my_skin.png">
+</p>
 
 ### **Step 5: Upload the Walrus skin over yours**
 
 Same idea, click "Open" to upload the walrus_onesie.png that you've downloaded from above, or drag-and-drop it directly.
 
-<img src="https://drive.google.com/uc?export=view&id=1QfHSxPrkbL6QP5NNOD6JCRrUdgAdKeaD" alt="walrus_and_me.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1QfHSxPrkbL6QP5NNOD6JCRrUdgAdKeaD" alt="walrus_and_me.png">
+</p>
 
 Make sure the walrus_onesie.png template is below your skin's template, on the top-right "layers" corner of the Novaskin screen. This will ensure that your skin is a layer beneath the walrus onesie, which is what we want.
 
