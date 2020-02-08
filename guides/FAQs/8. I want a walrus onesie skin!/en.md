@@ -4,11 +4,11 @@
 
 -------------------
 
-Aha so you've seen them around! Yes, you too may go about wearing the walrus onesie in-game and become one of the cool ones.
+Aha so you've seen them around! Yes, you too may go about wearing the walrus onesie in-game and feeling cool.
 
 ### **Step 1. Download the walrus onesie layer**
 
-Download the image below by right-clicking and hitting "Save as...", then save it to somewhere on your computer:
+Download the image below: right-click the image and hit "Save Image as...". Save it to a location of your choice, on your machine:
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rKMJKvHzXrW7nV9Mb4dLaZMlIUW5aMUf" alt="walrus_onesie.png" style="image-rendering: pixelated;">
@@ -18,7 +18,7 @@ Download the image below by right-clicking and hitting "Save as...", then save i
 
 Have your own skin png at hand. You can download it from the [Minecraft website](https://minecraft.net), under your profile --> skins, by right-clicking the skin image and hitting "Save as ..."
 
-Head over to [Novaskin](https://minecraft.novaskin.me/).
+Head over to [Novaskin](https://minecraft.novaskin.me/). Novaskin is an online skin modification and creation tool.
 
 ### **Step 3: Create a blank template**
 
