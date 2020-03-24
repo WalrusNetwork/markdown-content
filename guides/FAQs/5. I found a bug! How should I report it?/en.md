@@ -6,9 +6,6 @@ There are two kinds of bugs in this world: bugs that aren’t too serious, and b
 
 If you believe you’ve found a harmful, dangerous bug (be careful, some of them sting), please reach out to a staff member in private, or email us at [support@walrus.gg](mailto:support@walrus.gg).
 
-If the bug isn’t too nasty (some bugs are even cute – I’m a big ladybug person), then you’re welcome to document it on our Discord ticket support system:
+If the bug isn’t too nasty (some can be cute), then you’re welcome to document it on our current GitHub Bugs [repository](https://github.com/Picajoluna/Walrus-Bugs/issues).  DO search through the list of currently open & known bugs first, to make sure yours hasn't already been documented.
 
-1. Join our [Discord server](https://discord.gg/eySJYEb)
-2. Use the Ticket Tool system to open a support ticket, which we'll follow up on.
-
-There are only so many of us, but there are many of you adventurous bug catchers, and we rely on you to help us keep the corners clean. Thanks for your help!
+There are only so many of us, but there are many more of you adventurous bug catchers, and we rely on you to help us keep the corners clean. Thanks for your help!
