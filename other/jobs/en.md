@@ -2,6 +2,8 @@
 
 We rely on our wonderful volunteers and independent contractors to power this community and the work we do. As a volunteer or contractor, we can offer you real time, hands-on experience in a variety of domains and skillsets, collaboration with experienced peers, and an enjoyable side-position for you to occupy.
 
+`Note:` please don't hesitate to apply in your respective language rather than English, if this is more comfortable for you. As long as it's not latin or ancient greek, we likely have someone who can translate! That being said, we communicate in English within the team, and decent skills in the language are expected.
+
 ## **What should I include in my application?**
 
 Good question! It depends on the position you're applying for. Below are a few questions to pick from to help get you started with your application:
