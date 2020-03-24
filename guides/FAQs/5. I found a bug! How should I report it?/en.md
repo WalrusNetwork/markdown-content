@@ -6,6 +6,6 @@ There are two kinds of bugs in this world: bugs that aren’t too serious, and b
 
 If you believe you’ve found a harmful, dangerous bug (be careful, some of them sting), please reach out to a staff member in private, or email us at [support@walrus.gg](mailto:support@walrus.gg).
 
-If the bug isn’t too nasty (some can be cute), then you’re welcome to document it on our current GitHub Bugs [repository](https://github.com/Walrus-Network/Walrus-Bugs).  Do search through the list of currently open & known bugs first, to make sure yours hasn't already been documented.
+If the bug isn’t too nasty (some can be cute), then you’re welcome to document it on our current GitHub Bugs [repository](https://github.com/WalrusNetwork/bugs).  Do search through the list of currently open & known bugs first, to make sure yours hasn't already been documented.
 
 There are only so many of us, but there are many more of you adventurous bug catchers, and we rely on you to help us keep the corners clean. Thanks for your help!
